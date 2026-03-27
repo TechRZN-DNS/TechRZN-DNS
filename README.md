@@ -40,4 +40,12 @@ Ich betreibe eine spezialisierte Umgebung in **Kleve**, um meine Filter unter Re
 </p>
 
 ---
-*Gepflegt mit ❤️ in Kleve • Stand: März 2026*
+
+## ☕ Support & Kaffee
+Der Betrieb der 2,5 Gbit/s Test-Infrastruktur und die tägliche Pflege von über 1 Million Regeln erfordern Zeit und Ressourcen. 
+
+Wenn dir meine Arbeit hilft:
+* **Feedback:** Eröffne ein Issue oder gib dem Projekt einen ⭐.
+* **Support:** Da mein Patreon aktuell noch in der Prüfung ist, kontaktiere mich bei Interesse an einer Unterstützung einfach direkt hier über GitHub oder per Mail.
+
+*Gepflegt mit ❤️ in Kleve*
