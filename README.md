@@ -1,7 +1,9 @@
 # 🛡️ TechRZN-DNS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main_Project-Blocklist_Collection-blue?style=for-the-badge&logo=github" />
+  <a href="https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection">
+    <img src="https://img.shields.io/badge/Main_Project-Blocklist_Collection-blue?style=for-the-badge&logo=github" />
+  </a>
   <img src="https://img.shields.io/badge/Location-Kleve, Germany-orange?style=for-the-badge&logo=google-maps" />
   <img src="https://img.shields.io/badge/Infrastructure-2.5_Gbit/s-success?style=for-the-badge&logo=serverfault" />
 </p>
@@ -32,9 +34,9 @@ Ich betreibe eine spezialisierte Umgebung in **Kleve**, um meine Filter unter Re
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechRZN-DNS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="TechRZN GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=docker,py,github,githubactions,linux,apple,windows&theme=dark" />
 </p>
 
 ---
