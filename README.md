@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/techrzn-dns.jpg" width="450" alt="TechRZN Advanced DNS Stack" />
+  <img src="techrzn-dns.png" width="450" alt="TechRZN Advanced DNS Stack" />
 </p>
 
 <p align="center">
@@ -39,8 +39,8 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
 ## 🧩 Modulare Filter-Architektur (Die 11 Module)
 | Modul | Fokus / Schutzbereich | Raw-Link |
 | :--- | :--- | :--- |
-| 🥇 **HaGeZi Pro** | Weltweiter All-in-One Schutz (Gold Standard) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/hagezi_pro.txt) |
-| 🔐 **Bypass Filter** | Blockierung von VPN, Proxy, Tor & Bypass-Methoden | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/bypass.txt) |
+| 🥇 **HaGeZi Pro** | All-in-One Schutz (Gold Standard) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/hagezi_pro.txt) |
+| 🔐 **Bypass Filter** | VPN, Proxy, Tor & Bypass-Methoden | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/bypass.txt) |
 | 🏴‍☠️ **Threat Intel** | Schutz vor Cyber-Angriffen & Botnets | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/threat_intel.txt) |
 | 🇩🇪 **German Filter** | **Spezial-Optimierung für DE / AT / CH** | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/german_filter.txt) |
 | 📺 **Smart-TV** | Unterbindung von TV-Tracking & Werbung | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/smart_tv.txt) |
@@ -50,18 +50,6 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
 | ⚠️ **Fake DNS** | Schutz vor Scam & Fake-Shops | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/fake_dns.txt) |
 | 📜 **Dan Pollock** | Legendärer Hosts-File Klassiker | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/dan_pollock.txt) |
 | 📍 **TechRZN IPs** | Eigene Liste bösartiger IP-Adressen | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/techrzn_ips.txt) |
-
----
-
-## ⚪ Intelligente Whitelists & Referral Fix
-Um "Overblocking" zu vermeiden, nutzt TechRZN ein zweistufiges Verfahren:
-
-1. **HaGeZi Referral Whitelist:** Automatische Integration zur Vermeidung globaler Fehlblockierungen.
-2. **TechRZN Custom Whitelist:** Manuelle Liste (`whitelist.txt`) für persönliche Ausnahmen (z.B. UGREEN, FRITZ!Box Services).
-
-### 🛠️ Advanced Whitelist (Referral Fix)
-To prevent useful redirects (e.g., from emails, search results) from being blocked, add this to your **Custom Filtering Rules** in AdGuard Home:
-* **Link:** [ALLOWLIST_REF.txt](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/ALLOWLIST_REF.txt)
 
 ---
 
