@@ -88,10 +88,10 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
 ---
 
 ## 📊 Analytics
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TechRZN&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=9ece6a" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRZN&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=9ece6a" height="170" />
-</div>
+</p>
 
 ---
 
