@@ -53,6 +53,18 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
 
 ---
 
+## ⚪ Intelligente Whitelists & Referral Fix
+Um "Overblocking" zu vermeiden, nutzt TechRZN ein zweistufiges Verfahren:
+
+1. **HaGeZi Referral Whitelist:** Automatische Integration zur Vermeidung globaler Fehlblockierungen.
+2. **TechRZN Custom Whitelist:** Manuelle Liste (`whitelist.txt`) für persönliche Ausnahmen (z.B. UGREEN, FRITZ!Box Services).
+
+### 🛠️ Advanced Whitelist (Referral Fix)
+To prevent useful redirects (e.g., from emails, search results) from being blocked, add this to your **Custom Filtering Rules** in AdGuard Home:
+* **Link:** [ALLOWLIST_REF.txt](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/ALLOWLIST_REF.txt)
+
+---
+
 ## ⚙️ Optimale AdGuard Home Einstellungen
 *Konfiguration für maximale Stabilität bei 1M+ aktiven Regeln:*
 
@@ -93,11 +105,19 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
 
 ---
 
+## 📊 Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechRZN&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=9ece6a" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRZN&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=9ece6a" height="170" />
+</div>
+
+---
+
 ## ❤️ Support & Infrastruktur
 Der tägliche Betrieb der **2,5 Gbit/s Test-Umgebung** und die Pflege von über 1 Million Regeln erfordern Zeit und Ressourcen. Wenn dir meine Arbeit hilft:
 
 * **Feedback:** Eröffne ein [Issue](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection/issues) oder gib dem Projekt einen ⭐.
-* **Support:** Da mein Patreon aktuell noch in der Prüfung ist, kontaktiere mich bei Interesse einfach direkt.
+* **Support:** Kontaktiere mich bei Interesse an einer Unterstützung einfach direkt.
 
 <br>
 <img src="https://capsule-render.vercel.app/render?type=soft&color=7957d5&height=30&section=footer" width="100%" />
