@@ -38,9 +38,9 @@ Ich entwickle die sauberste und effizienteste "All-in-One" Blocklist für **AdGu
     </td>
     <td width="33%" style="padding: 20px; border: none;">
       <img src="https://img.icons8.com/fluency/64/000000/germany-map.png" width="40"/><br>
-      <span style="font-size: 18px;"><b>DACH Regional Core</b></span><br>
-      <i style="color: #ff9e64;">ISP & Compliance Ready</i><br><br>
-      Spezifische Optimierung für deutsche, österreichische und Schweizer Infrastrukturen. Garantiert reibungslose Provider-Logins und lokale Dienste.
+      <span style="font-size: 18px;"><b>Germany / DACH Core</b></span><br>
+      <i style="color: #ff9e64;">Regional Infrastructure Focus</i><br><br>
+      Spezifische Optimierung für den deutschen Raum sowie die gesamte DACH-Region. Maximale Performance innerhalb lokaler Breitband-Infrastrukturen.
     </td>
   </tr>
 </table>
@@ -72,21 +72,33 @@ Ich entwickle die sauberste und effizienteste "All-in-One" Blocklist für **AdGu
       <b>80 TB Raw / 60 TB Netto</b> (4x 20TB <b>WD Red Pro</b> | RAID 5)
     </td>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <img src="https://img.icons8.com/fluency/48/network-hub.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
-      <span style="font-size: 16px;"><b>Network Backbone</b></span><br>
-      <b>2.5 Gbit/s LAN</b> (Zyxel/FRITZ!Box 7690) | <b>250 Mbit/s Hybrid WAN</b>
+      <img src="https://img.icons8.com/fluency/48/ethernet-switch.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 16px;"><b>Switching Power</b></span><br>
+      <b>Zyxel Switch</b> | 2.5 Gbit/s Low Latency
     </td>
   </tr>
   <tr>
+    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/48/router.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 16px;"><b>Network Backbone</b></span><br>
+      <b>AVM FRITZ!Box 7690</b> | 2.5G Fiber Backbone | <b>250 Mbit/s Hybrid</b>
+    </td>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
       <img src="https://img.icons8.com/fluency/48/docker.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
       <span style="font-size: 16px;"><b>Container Orchestration</b></span><br>
       <b>Docker</b> Engine & <b>Portainer</b> Management
     </td>
+  </tr>
+  <tr>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
       <img src="https://img.icons8.com/fluency/48/python.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
       <span style="font-size: 16px;"><b>Automation & Sync</b></span><br>
       <b>Python</b> Scripts & GitHub Actions
+    </td>
+    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
+       <img src="https://img.icons8.com/fluency/48/globe.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
+       <span style="font-size: 16px;"><b>Location</b></span><br>
+       <b>Kleve, Germany</b>
     </td>
   </tr>
 </table>
@@ -103,14 +115,11 @@ Ich entwickle die sauberste und effizienteste "All-in-One" Blocklist für **AdGu
 ---
 
 ## ☕ Support & Connect
-Der Betrieb der 2.5G/Hybrid-Infrastruktur und die tägliche Pflege von 1 Million Regeln erfordert Zeit und Ressourcen. Wenn dir meine Arbeit hilft:
+Der Betrieb dieser Infrastruktur und die tägliche Pflege von 1 Million Regeln erfordert Zeit und Ressourcen. Wenn dir meine Arbeit hilft:
 
 **[Eröffne ein Issue](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection/issues) • [Hinterlasse einen ⭐](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection) • Patreon (In Prüfung ⏳)**
 
 <br>
 
 **Engineered with precision by TechRZN-DNS**
-<br>
-*Maintained with ❤️ in Kleve, Germany*
-
 </div>
