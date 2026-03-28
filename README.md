@@ -14,15 +14,15 @@
 
 ---
 
-## 🛰️ System-Architektur & Mission
-**High-Performance Blocklisten • Täglich aktualisiert • 100% Bereinigt**
+## 🛰️ Mission & Vision
+> **High-Performance Blocklisten • Täglich aktualisiert • 100% Bereinigt**
 
-Willkommen im **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich aktualisierte "All-in-One" Blockliste für **AdGuard Home, Pi-hole und Technitium**. Alle Listen werden automatisch von Duplikaten bereinigt und gegen eine mehrstufige Whitelist geprüft, um maximale Sicherheit bei minimaler Latenz zu garantieren.
+Willkommen im **TechRZN Filter-Hub**. Wir bieten eine hochoptimierte "All-in-One" Lösung für **AdGuard Home, Pi-hole und Technitium**. Durch automatisierte Deduplizierung und eine intelligente Whitelist garantieren wir Schutz ohne "Overblocking".
 
 ---
 
-## 🚀 SCHNELLZUGRIFF & EINBINDUNG
-**Die ultimative Lösung für dein Setup. Master-Liste und Whitelist bereit zur Nutzung.**
+## 🚀 Direkt-Einbindung
+*Nutze die Master-Liste für den kompletten Schutz oder die Whitelist für Ausnahmen.*
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_blocklist.txt">
@@ -36,80 +36,82 @@ Willkommen im **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich akt
 
 ---
 
-## 🛠️ Installation & Nutzung
+## 🛠️ Setup-Anleitungen
+<details>
+<summary><b>👉 Klicke hier für die AdGuard Home Einrichtung</b></summary>
+<br>
+<blockquote>
+1. Gehe zu <b>Filter</b> ➔ <b>DNS-Sperrlisten</b>.<br>
+2. Klicke auf <b>Sperrliste hinzufügen</b> ➔ <b>Benutzerdefinierte Liste</b>.<br>
+3. Name: <code>TechRZN Master</code> | URL: Button oben nutzen.<br>
+4. <b>Pro-Tipp:</b> Aktiviere <i>Optimistisches Caching</i> für maximale Geschwindigkeit.
+</blockquote>
+</details>
 
-Kopiere den Link der **Master-Liste** über die Buttons oben und füge ihn in dein System ein:
-
-### 🛡️ AdGuard Home
-* **Pfad:** Filter -> DNS-Sperrlisten -> Sperrliste hinzufügen -> Benutzerdefiniert.
-* **Tipp:** Aktiviere "Optimistisches Caching" in den DNS-Einstellungen für maximale Performance.
-
-### 🥧 Pi-hole
-* **Pfad:** Adlists -> URL einfügen -> Add. Danach `Update Gravity` unter Tools ausführen.
-* **Tipp:** Nutze den Button oben, um sicherzugehen, dass du das "Raw"-Format kopierst.
-
----
-
-## 🧩 Modulare Filter-Architektur (Die 14 Module)
-| Modul | Fokus / Schutzbereich | Direkt-Link |
-| :--- | :--- | :--- |
-| 🥇 **HaGeZi Pro** | Weltweiter Schutz (Gold Standard) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_pro.txt) |
-| 🔐 **Bypass Filter** | VPN, Proxy, Tor & Bypass-Methoden | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_bypass.txt) |
-| 🏴‍☠️ **Threat Intel** | Schutz vor Cyberangriffen & Botnetzen | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_threat.txt) |
-| 🇩🇪 **German Filter** | **Spezielle Optimierung für DE / AT / CH** | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/adguard_german.txt) |
-| 📺 **Smart TV** | Unterbindet TV-Tracking & Werbung | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/smart_tv.txt) |
-| 🦠 **URLHaus** | Malware-URLs & Phishing (Echtzeit) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/urlhaus_malicious.txt) |
-| 💻 **Windows Spy** | Härtung für MS-Telemetrie & Office | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_windows.txt) |
-| 🎮 **Gambling** | Sperrung von Glücksspiel & Wetten | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_gambling.txt) |
-| ⚠️ **Fake DNS** | Schutz vor Betrug & Fake-Shops | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_fake.txt) |
-| 📜 **Dan Pollock** | Legendärer Hosts-File Klassiker | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/dan_pollock.txt) |
-| 📍 **TechRZN IPs** | Eigene Liste bösartiger IP-Adressen | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/techrzn_ips.txt) |
-| 🛍️ **Anti-Fakeshop** | Abwehr von Fake-Shops & Abofallen (RPiList) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/notserious.txt) |
-| 🏦 **Banking-Schutz** | Phishing-Schild (DE/AT/CH Banken - RPiList) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/phishing_de.txt) |
-| 🧪 **Fake Science** | Blockiert Pseudo-Wissenschaft & Scam-Portale | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/fake_science.txt) |
+<details>
+<summary><b>👉 Klicke hier für die Pi-hole Einrichtung</b></summary>
+<br>
+<blockquote>
+1. Gehe zu <b>Adlists</b> im linken Menü.<br>
+2. Füge die URL in das Feld <b>Address</b> ein.<br>
+3. Klicke auf <b>Add</b>.<br>
+4. <b>Wichtig:</b> Führe unter <i>Tools</i> ➔ <i>Update Gravity</i> ein Update aus.
+</blockquote>
+</details>
 
 ---
 
-## 🏗️ Das Backbone: Bare-Metal Power
-*Jede Liste wird auf dieser dedizierten Infrastruktur in Kleve verarbeitet und validiert.*
+## 🧩 Die 14 Schutz-Module
+*Alle Module sind bereits in der Master-Liste enthalten.*
 
-<table align="center" width="100%" style="border-collapse: collapse; background-color: #0d1117; border-radius: 10px; overflow: hidden;">
+| Status | Modul | Fokus | Link |
+| :--- | :--- | :--- | :---: |
+| 🥇 | **HaGeZi Pro** | Globaler Schutz (Gold Standard) | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_pro.txt) |
+| 🇩🇪 | **German Filter** | Optimierung für DE / AT / CH | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/adguard_german.txt) |
+| 🛡️ | **Threat Intel** | Cyberangriffe & Botnetze | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_threat.txt) |
+| 📺 | **Smart TV** | Tracking & TV-Werbung | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/smart_tv.txt) |
+| 🦠 | **URLHaus** | Malware & Phishing (Echtzeit) | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/urlhaus_malicious.txt) |
+| 💻 | **Windows Spy** | MS-Telemetrie & Office | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_windows.txt) |
+| 🛍️ | **Anti-Fakeshop** | Betrugsshops & Abofallen | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/notserious.txt) |
+| 🏦 | **Banking-Schutz** | Phishing-Schild (DE/AT/CH) | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/phishing_de.txt) |
+
+*(Weitere Module wie Gambling, Bypass, Dan Pollock & Fake Science sind ebenfalls aktiv.)*
+
+---
+
+## 🏗️ Hardware Backbone (Kleve, NRW)
+*Validierung auf Enterprise-Hardware für absolute Zuverlässigkeit.*
+
+<table align="center" width="100%" style="border-collapse: collapse; background-color: #0d1117; border-radius: 12px; overflow: hidden; border: 1px solid #30363d;">
   <tr>
-    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <code>HAUPT-NODE</code><br><b>UGREEN NAS DXP4800 Plus</b><br>
-      <img src="https://img.shields.io/badge/CPU-Intel_Pentium_8505-blue?style=flat-square" />
-      <img src="https://img.shields.io/badge/RAM-64_GB_DDR5_ECC-7957d5?style=flat-square" />
+    <td align="left" style="padding: 20px;">
+      <b>CORE</b><br>UGREEN NAS DXP4800 Plus<br>
+      <img src="https://img.shields.io/badge/64_GB_DDR5_ECC-7957d5?style=flat-square" />
     </td>
-    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <code>BESCHLEUNIGUNG</code><br><b>2x 2TB Samsung 990 Pro</b><br>
-      <img src="https://img.shields.io/badge/I/O-NVMe_Gen4_RAID_1-FF6B6B?style=flat-square" />
-      <img src="https://img.shields.io/badge/SPEED-7450_MB/s-orange?style=flat-square" />
+    <td align="left" style="padding: 20px;">
+      <b>SSD</b><br>Samsung 990 Pro RAID<br>
+      <img src="https://img.shields.io/badge/NVMe_Gen4-FF6B6B?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <code>SPEICHER</code><br><b>80 TB WD Red Pro (12G SAS)</b><br>
-      <img src="https://img.shields.io/badge/ARRAY-RAID_5_ZFS-00C853?style=flat-square" />
-      <img src="https://img.shields.io/badge/TYP-Enterprise_CMR-yellow?style=flat-square" />
+    <td align="left" style="padding: 20px;">
+      <b>NETWORK</b><br>2.5 Gbit Hybrid-Backbone<br>
+      <img src="https://img.shields.io/badge/Zyxel_Managed-00D2FF?style=flat-square" />
     </td>
-    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <code>KONNEKTIVITÄT</code><br><b>Hybrid-Power Backbone</b><br>
-      <img src="https://img.shields.io/badge/UPLINK-2.5_Gbit-white?style=flat-square&logo=speedtest" />
-      <img src="https://img.shields.io/badge/LAN-Zyxel_2.5G_Managed-00D2FF?style=flat-square" />
+    <td align="left" style="padding: 20px;">
+      <b>HDD</b><br>80 TB WD Red Pro<br>
+      <img src="https://img.shields.io/badge/RAID_5_ZFS-00C853?style=flat-square" />
     </td>
   </tr>
 </table>
 
 ---
 
-## ❤️ Support & Infrastruktur
-Der Betrieb der täglichen **2,5 Gbit/s Testumgebung** in Kleve erfordert massiv Zeit und Ressourcen. Wenn dir meine Arbeit hilft:
+## ❤️ Support
+Die Pflege der Listen erfolgt ehrenamtlich. Wenn dir das Projekt hilft, freue ich mich über einen ⭐ oder Feedback!
 
-* **Feedback:** Eröffne ein [Issue](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection/issues) oder gib dem Projekt einen ⭐.
-* **Support:** Kontaktiere mich direkt, wenn du das Projekt unterstützen möchtest.
-
+**Gepflegt mit ❤️ von Jörg Berns in Kleve • Stand: März 2026**
 <br>
 <img src="https://capsule-render.vercel.app/render?type=soft&color=7957d5&height=30&section=footer" width="100%" />
 
-**Gepflegt mit ❤️ von Jörg Berns in Kleve • Stand: März 2026**
 </div>
