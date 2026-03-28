@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/render?type=kalo&color=7957d5&height=180&section=header&text=TechRZN%20DNS%20MASTER%20CORE&fontSize=50&animation=twinkling&fontAlignY=35" width="100%" />
 
-<br>
-
-<p align="center">
-  <img src="techrzn-dns.png" width="450" alt="TechRZN Advanced DNS Stack" />
-</p>
+<p align="center"><img src="techrzn-dns.png" width="450" alt="TechRZN Logo" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE_INFRASTRUCTURE-00C853?style=for-the-badge&logo=statuspage&logoColor=white" />
@@ -40,7 +36,7 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
 | Modul | Fokus / Schutzbereich | Raw-Link |
 | :--- | :--- | :--- |
 | 🥇 **HaGeZi Pro** | Weltweiter All-in-One Schutz (Gold Standard) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/hagezi_pro.txt) |
-| 🔐 **Bypass Filter** | Blockierung von VPN, Proxy, Tor & Bypass-Methoden | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/bypass.txt) |
+| 🔐 **Bypass Filter** | VPN, Proxy, Tor & Bypass-Methoden | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/bypass.txt) |
 | 🏴‍☠️ **Threat Intel** | Schutz vor Cyber-Angriffen & Botnets | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/threat_intel.txt) |
 | 🇩🇪 **German Filter** | **Spezial-Optimierung für DE / AT / CH** | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/german_filter.txt) |
 | 📺 **Smart-TV** | Unterbindung von TV-Tracking & Werbung | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/smart_tv.txt) |
@@ -64,8 +60,6 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
 | **Upstream** | **Upstream-Timeout** | **2 - 5 Sekunden** ⏳ |
 | **Upstream** | **Parallele Abfrage** | **Eingeschaltet** (Schnellste Antwort) ⚡ |
 | **Antwort** | **Gültigkeitsdauer (Blockiert)** | **300 Sekunden** ✅ |
-| **Security** | DNSSEC & Sperrmodus | **Aktiviert** / **Standard** |
-| **Inverse DNS** | Private Reverse-DNS | **Aktiviert** (Router-IP eintragen) |
 
 ---
 
@@ -78,7 +72,7 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
       <b>Compute Node:</b> UGREEN NAS DXP4800 Plus | <b>64 GB RAM</b>
     </td>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <b>IO-Layer:</b> 2x 2TB <b>Samsung 990 Pro</b> NVMe (Cache)
+      <b>IO-Layer:</b> 2x 2TB <b>Samsung 990 Pro</b> NVMe
     </td>
   </tr>
   <tr>
@@ -102,7 +96,7 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
 ---
 
 ## ❤️ Support & Infrastruktur
-Der tägliche Betrieb der **2,5 Gbit/s Test-Umgebung** in Kleve und die Pflege von über 1 Million Regeln erfordern massiv Zeit und Ressourcen. Wenn dir meine Arbeit hilft:
+Der tägliche Betrieb der **2,5 Gbit/s Test-Umgebung** in Kleve erfordert massiv Zeit und Ressourcen. Wenn dir meine Arbeit hilft:
 
 * **Feedback:** Eröffne ein [Issue](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection/issues) oder gib dem Projekt einen ⭐.
 * **Support:** Kontaktiere mich bei Interesse an einer Unterstützung einfach direkt.
