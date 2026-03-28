@@ -13,12 +13,12 @@
 ## 🛰️ System Architecture & Mission
 **High-Performance Blocklists • Täglich aktualisiert • 100% Bereinigt**
 
-Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich aktualisierte "All-in-One" Blocklist für **AdGuard Home, Pi-hole und Technitium**. Alle Listen werden automatisch von Duplikaten bereinigt, de-dupliziert und gegen eine mehrstufige Whitelist geprüft, um maximale Sicherheit bei Null-Latenz zu garantieren.
+Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich aktualisierte "All-in-One" Blocklist für **AdGuard Home, Pi-hole und Technitium**. Alle Listen werden automatisch von Duplikaten bereinigt und gegen eine mehrstufige Whitelist geprüft, um maximale Sicherheit bei Null-Latenz zu garantieren.
 
 ---
 
 ## 🚀 DIE MASTER-LISTE (Empfohlen)
-**Die ultimative Lösung für dein Setup. Enthält alle 11 Filter-Module in einer einzigen, performanten Datei.**
+**Die ultimative Lösung für dein Setup. Enthält alle 11 Filter-Module in einer einzigen Datei.**
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_blocklist.txt">
@@ -31,35 +31,19 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
 ---
 
 ## 🧩 Modulare Filter-Architektur (Die 11 Module)
-*Abonniere spezifische Schutzbereiche einzeln nach deinem Bedarf:*
-
 | Modul | Fokus / Schutzbereich | Raw-Link |
 | :--- | :--- | :--- |
 | 🥇 **HaGeZi Pro** | Weltweiter All-in-One Schutz (Gold Standard) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/hagezi_pro.txt) |
 | 🔐 **Bypass Filter** | Blockierung von VPN, Proxy, Tor & Bypass-Methoden | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/bypass.txt) |
-| 🏴‍☠️ **Threat Intel** | Schutz vor Cyber-Angriffen, Botnets & C2-Servern | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/threat_intel.txt) |
-| 🇩🇪 **German Filter** | **Spezial-Optimierung für DE / AT / CH Netzwerke** | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/german_filter.txt) |
-| 📺 **Smart-TV** | Unterbindung von TV-Tracking & invasiver Werbung | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/smart_tv.txt) |
-| 🦠 **URLHaus** | Echtzeit-Schutz gegen Malware-URLs & Phishing | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/urlhaus.txt) |
-| 💻 **Windows Spy** | Hardening für MS Telemetrie, Office & Spyware | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/windows_spy.txt) |
-| 🎮 **Gambling** | Blokierung von Glücksspiel, Wetten & Casinos | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/gambling.txt) |
-| ⚠️ **Fake DNS** | Schutz vor Scam, Fake-Shops & Fraudulent Content | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/fake_dns.txt) |
-| 📜 **Dan Pollock** | Legendärer Hosts-File Klassiker (Validiert) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/dan_pollock.txt) |
-| 📍 **TechRZN IPs** | Exklusive Liste bekannter Malicious IP-Adressen | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/techrzn_ips.txt) |
-
----
-
-## ⚪ Intelligente Whitelists & Referral Fix
-Um "Overblocking" zu vermeiden, nutzt TechRZN ein zweistufiges Verfahren:
-
-1. **HaGeZi Referral Whitelist:** Automatische Integration zur Vermeidung globaler Fehlblockierungen.
-2. **TechRZN Custom Whitelist:** Manuelle Liste (`whitelist.txt`) für persönliche Ausnahmen (z.B. UGREEN Updates, FRITZ!Box Services, Microsoft).
-
-### 🛠️ Advanced Whitelist (Referral Fix)
-To prevent useful redirects (e.g., from emails, search results) from being blocked, I recommend adding this to your **Custom Filtering Rules** in AdGuard Home:
-* **Purpose:** Fixes broken login pages (Telekom) and affiliate redirects (Amazon, eBay).
-* **Source:** Optimized TechRZN version.
-* **Link:** [ALLOWLIST_REF.txt](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/ALLOWLIST_REF.txt)
+| 🏴‍☠️ **Threat Intel** | Schutz vor Cyber-Angriffen & Botnets | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/threat_intel.txt) |
+| 🇩🇪 **German Filter** | **Spezial-Optimierung für DE / AT / CH** | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/german_filter.txt) |
+| 📺 **Smart-TV** | Unterbindung von TV-Tracking & Werbung | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/smart_tv.txt) |
+| 🦠 **URLHaus** | Malware-URLs & Phishing (Echtzeit) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/urlhaus.txt) |
+| 💻 **Windows Spy** | Hardening für MS Telemetrie & Office | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/windows_spy.txt) |
+| 🎮 **Gambling** | Blokierung von Glücksspiel & Wetten | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/gambling.txt) |
+| ⚠️ **Fake DNS** | Schutz vor Scam & Fake-Shops | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/fake_dns.txt) |
+| 📜 **Dan Pollock** | Legendärer Hosts-File Klassiker | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/dan_pollock.txt) |
+| 📍 **TechRZN IPs** | Eigene Liste bösartiger IP-Adressen | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/techrzn_ips.txt) |
 
 ---
 
@@ -71,6 +55,9 @@ To prevent useful redirects (e.g., from emails, search results) from being block
 | **DNS-Cache** | Cache-Größe | **100 MB** (104.857.600 Bytes) ✅ |
 | **DNS-Cache** | Optimistisches Caching | **Aktiviert** ✅ |
 | **TTL** | Minimalwert / Höchstwert | **3600** (1h) / **86400** (24h) |
+| **Upstream** | **Upstream-Timeout** | **2 - 5 Sekunden** ⏳ |
+| **Upstream** | **Parallele Abfrage** | **Eingeschaltet** (Schnellste Antwort) ⚡ |
+| **Antwort** | **Gültigkeitsdauer (Blockiert)** | **300 Sekunden** ✅ |
 | **Security** | DNSSEC & Sperrmodus | **Aktiviert** / **Standard** |
 | **Inverse DNS** | Private Reverse-DNS | **Aktiviert** (Router-IP eintragen) |
 
