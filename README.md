@@ -28,6 +28,8 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
   <a href="https://patreon.com/TechRZN">
     <img src="https://img.shields.io/badge/PATREON-UNTERSTÜTZER_WERDEN-orange?style=for-the-badge&logo=patreon&logoColor=white" height="45" />
   </a>
+  <br>
+  <img src="https://img.shields.io/patreon/repledges/TechRZN?style=for-the-badge&logo=patreon&color=orange" height="25" />
 </p>
 
 ---
