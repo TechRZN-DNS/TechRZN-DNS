@@ -21,16 +21,18 @@ Welcome to the **TechRZN Filter Hub**. This repository provides a daily updated 
 
 ---
 
-## 🚀 THE MASTER LIST (Recommended)
-**The ultimate solution for your setup. Contains all 14 filter modules in a single file.**
+## 🚀 QUICK ACCESS & DEPLOYMENT
+**The ultimate solution for your setup. Master List and Whitelist ready for deployment.**
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_blocklist.txt">
     <img src="https://img.shields.io/badge/MASTER_COLLECTION-COPY_LINK-7957d5?style=for-the-badge&logo=adguard&logoColor=white" height="45" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/whitelist.txt">
+    <img src="https://img.shields.io/badge/WHITELIST-COPY_LINK-blue?style=for-the-badge&logo=github&logoColor=white" height="45" />
+  </a>
 </p>
-
-`https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_blocklist.txt`
 
 ---
 
@@ -60,18 +62,26 @@ Welcome to the **TechRZN Filter Hub**. This repository provides a daily updated 
 <table align="center" width="100%" style="border-collapse: collapse; background-color: #0d1117; border-radius: 10px; overflow: hidden;">
   <tr>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <code>CORE NODE</code><br><b>UGREEN NAS DXP4800 Plus</b><br><img src="https://img.shields.io/badge/RAM-64_GB_ECC-7957d5?style=flat-square" />
+      <code>CORE NODE</code><br><b>UGREEN NAS DXP4800 Plus</b><br>
+      <img src="https://img.shields.io/badge/CPU-Intel_Pentium_8505-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/RAM-64_GB_DDR5_ECC-7957d5?style=flat-square" />
     </td>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <code>ACCELERATION</code><br><b>2x 2TB Samsung 990 Pro</b><br><img src="https://img.shields.io/badge/I/O-NVMe_Gen4-FF6B6B?style=flat-square" />
+      <code>ACCELERATION</code><br><b>2x 2TB Samsung 990 Pro</b><br>
+      <img src="https://img.shields.io/badge/I/O-NVMe_Gen4_RAID_1-FF6B6B?style=flat-square" />
+      <img src="https://img.shields.io/badge/SPEED-7450_MB/s-orange?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <code>STORAGE</code><br><b>80 TB WD Red Pro</b><br><img src="https://img.shields.io/badge/ARRAY-RAID_5-00C853?style=flat-square" />
+      <code>STORAGE</code><br><b>80 TB WD Red Pro (12G SAS)</b><br>
+      <img src="https://img.shields.io/badge/ARRAY-RAID_5_ZFS-00C853?style=flat-square" />
+      <img src="https://img.shields.io/badge/TYPE-Enterprise_CMR-yellow?style=flat-square" />
     </td>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <code>NETWORK</code><br><b>Zyxel Managed Switch</b><br><img src="https://img.shields.io/badge/FABRIC-2.5_Gbit-white?style=flat-square&logoColor=black" />
+      <code>CONNECTIVITY</code><br><b>Hybrid-Power Backbone</b><br>
+      <img src="https://img.shields.io/badge/UPLINK-2.5_Gbit-white?style=flat-square&logo=speedtest" />
+      <img src="https://img.shields.io/badge/LAN-Zyxel_2.5G_Managed-00D2FF?style=flat-square" />
     </td>
   </tr>
 </table>
