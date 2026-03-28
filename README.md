@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛡️ TechRZN Infrastructure & Security
-### **Enterprise-Grade DNS Filtering | 1M+ Rules | High-Performance Setup**
+### **Enterprise-Grade DNS Filtering | 1M+ Rules | 2.5G Fiber Optimized**
 
 <p align="center">
   <a href="https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection">
@@ -31,7 +31,7 @@ Ich entwickle die sauberste und effizienteste "All-in-One" Blocklist für **AdGu
 ---
 
 ## ⚙️ The Engine: High-End Hardware Stack
-*TechRZN wird von einer massiven, dedizierten 24/7 Enterprise-Infrastruktur angetrieben, um absolut latenzfreie DNS-Filterung unter extremen Bedingungen zu garantieren.*
+*TechRZN wird von einer dedizierten 24/7 Enterprise-Infrastruktur angetrieben, um absolut latenzfreie DNS-Filterung unter extremen Bedingungen zu garantieren.*
 
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
@@ -53,32 +53,42 @@ Ich entwickle die sauberste und effizienteste "All-in-One" Blocklist für **AdGu
       <b>80 TB Raw / 60 TB Netto</b> (4x 20TB <b>WD Red Pro</b> | RAID 5)
     </td>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <img src="https://img.icons8.com/fluency/48/network-hub.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
-      <span style="font-size: 16px;"><b>Network Backbone</b></span><br>
-      <b>2.5 Gbit/s LAN</b> (Zyxel/FRITZ!Box 7690) | <b>250 Mbit/s Hybrid WAN</b>
+      <img src="https://img.icons8.com/fluency/48/ethernet-switch.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 16px;"><b>Switching Power</b></span><br>
+      <b>Zyxel Switch</b> | 2.5 Gbit/s Low Latency
     </td>
   </tr>
   <tr>
+    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/48/router.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 16px;"><b>Network Backbone</b></span><br>
+      <b>AVM FRITZ!Box 7690</b> | 2.5 Gbit/s Fiber WAN | <b>250 Mbit/s Hybrid</b>
+    </td>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
       <img src="https://img.icons8.com/fluency/48/docker.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
       <span style="font-size: 16px;"><b>Container Orchestration</b></span><br>
       <b>Docker</b> Engine & <b>Portainer</b> Management
     </td>
+  </tr>
+  <tr>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
       <img src="https://img.icons8.com/fluency/48/python.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
       <span style="font-size: 16px;"><b>Automation & Sync</b></span><br>
       <b>Python</b> Scripts & GitHub Actions
     </td>
+    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
+      </td>
   </tr>
 </table>
 
 ---
 
 ## 📊 Ecosystem Insights
+*\*Note: Dynamical stats may require a moment to load and are sometimes subject to service availability.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechRZN-DNS&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5&icon_color=ff9e64&text_color=9ece6a" height="195" alt="TechRZN Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRZN-DNS&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=9ece6a" height="195" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TechRZN-DNS&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5&icon_color=ff9e64&text_color=9ece6a&cb=2" height="195" alt="TechRZN Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRZN-DNS&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=9ece6a&cb=2" height="195" alt="Top Langs" />
 </div>
 
 ---
