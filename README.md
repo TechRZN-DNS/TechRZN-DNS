@@ -43,19 +43,27 @@ Ich entwickle und pflege eine bereinigte, deduplizierte "All-in-One" Blocklist f
       <b>80 TB Raw / 60 TB Netto</b> (4x 20TB **WD Red Pro** | RAID 5)
     </td>
     <td align="left" width="50%">
-      <img src="https://img.icons8.com/color/48/000000/ethernet.png"/> **Connectivity**<br>
-      <b>2,5 Gbit/s Full Backbone</b> | FRITZ!Box 7690 | Zyxel Switching
+      <img src="https://img.icons8.com/color/48/000000/router.png"/> **Core Router**<br>
+      <b>AVM FRITZ!Box 7690</b> (2.5G Fiber Backbone)
     </td>
   </tr>
   <tr>
     <td align="left" width="50%">
+      <img src="https://img.icons8.com/color/48/000000/ethernet.png"/> **Network**<br>
+      <b>2,5 Gbit/s Full Backbone</b> | Zyxel Switching
+    </td>
+    <td align="left" width="50%">
       <img src="https://img.icons8.com/color/48/000000/docker.png"/> **Management**<br>
       Docker & **Portainer** (Container Orchestration)
     </td>
+  </tr>
+  <tr>
     <td align="left" width="50%">
       <img src="https://img.icons8.com/color/48/000000/code.png"/> **Automation**<br>
       Python & GitHub Actions
     </td>
+    <td align="left" width="50%">
+      </td>
   </tr>
 </table>
 
