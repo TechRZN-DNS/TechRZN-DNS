@@ -21,6 +21,17 @@ Willkommen im **TechRZN Filter-Hub**. Wir bieten eine hochoptimierte "All-in-One
 
 ---
 
+## ❤️ Support & Community
+Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, freue ich mich über deine Unterstützung auf Patreon!
+
+<p align="center">
+  <a href="https://patreon.com/TechRZN">
+    <img src="https://img.shields.io/badge/PATREON-UNTERSTÜTZER_WERDEN-orange?style=for-the-badge&logo=patreon&logoColor=white" height="45" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Direkt-Einbindung
 *Nutze die Master-Liste für den kompletten Schutz oder die Whitelist für Ausnahmen.*
 
@@ -106,9 +117,6 @@ Willkommen im **TechRZN Filter-Hub**. Wir bieten eine hochoptimierte "All-in-One
 </table>
 
 ---
-
-## ❤️ Support
-Die Pflege der Listen erfolgt ehrenamtlich. Wenn dir das Projekt hilft, freue ich mich über einen ⭐ oder Feedback!
 
 **Gepflegt mit ❤️ von Jörg Berns in Kleve • Stand: März 2026**
 <br>
