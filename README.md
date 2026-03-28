@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛡️ TechRZN Infrastructure & Security
-### **Enterprise-Grade DNS Filtering | 1M+ Rules | 2.5G Fiber Optimized**
+### **Enterprise-Grade DNS Filtering | 1M+ Rules | High-Performance Setup**
 
 <p align="center">
   <a href="https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection">
@@ -22,16 +22,35 @@
 
 Ich entwickle die sauberste und effizienteste "All-in-One" Blocklist für **AdGuard Home**, **Pi-hole** und **Technitium**. Speziell optimiert für den deutschsprachigen Raum und High-Speed-Infrastrukturen.
 
-| <img src="https://img.icons8.com/fluency/48/000000/shield.png" width="24"/> Security First | <img src="https://img.icons8.com/fluency/48/000000/flash-on.png" width="24"/> Ultra-Fast DNS | <img src="https://img.icons8.com/fluency/48/000000/germany-map.png" width="24"/> Regional Focus |
-| :--- | :--- | :--- |
-| **Schutz vor Malware & Trackern.**<br>Umfassende Filterung toxischer Domains. | **Blitzschnelle Auflösung.**<br>Dedupliziert und auf Performance getrimmt. | **Optimiert für DE/AT/CH.**<br>Voller Support für lokale ISP-Logins. |
+<table align="center" width="100%" style="border-collapse: collapse; text-align: center;">
+  <tr>
+    <td width="33%" style="padding: 20px; border: none;">
+      <img src="https://img.icons8.com/fluency/64/000000/shield.png" width="40"/><br>
+      <span style="font-size: 18px;"><b>Advanced Cyber Defense</b></span><br>
+      <i style="color: #9ece6a;">Security First Approach</i><br><br>
+      Proaktive Filterung von Malware-, Phishing- und C2-Infrastrukturen. Echtzeit-Schutz durch KI-gestützte Heuristik und globale Threat-Feeds.
+    </td>
+    <td width="33%" style="padding: 20px; border: none;">
+      <img src="https://img.icons8.com/fluency/64/000000/flash-on.png" width="40"/><br>
+      <span style="font-size: 18px;"><b>Zero-Latency Engine</b></span><br>
+      <i style="color: #7957d5;">Performance Optimized</i><br><br>
+      Hochgradig deduplizierte Datensätze für minimale Resolver-Last. Optimiert für ultraschnelle DNS-Lookups in High-Speed-Netzwerken.
+    </td>
+    <td width="33%" style="padding: 20px; border: none;">
+      <img src="https://img.icons8.com/fluency/64/000000/germany-map.png" width="40"/><br>
+      <span style="font-size: 18px;"><b>DACH Regional Core</b></span><br>
+      <i style="color: #ff9e64;">ISP & Compliance Ready</i><br><br>
+      Spezifische Optimierung für deutsche, österreichische und Schweizer Infrastrukturen. Garantiert reibungslose Provider-Logins und lokale Dienste.
+    </td>
+  </tr>
+</table>
 
 ### [👉 JETZT ZUR BLOCKLIST-COLLECTION WECHSELN](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
 
 ---
 
 ## ⚙️ The Engine: High-End Hardware Stack
-*TechRZN wird von einer dedizierten 24/7 Enterprise-Infrastruktur angetrieben, um absolut latenzfreie DNS-Filterung unter extremen Bedingungen zu garantieren.*
+*TechRZN wird von einer massiven, dedizierten 24/7 Enterprise-Infrastruktur angetrieben, um absolut latenzfreie DNS-Filterung unter extremen Bedingungen zu garantieren.*
 
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
@@ -53,42 +72,32 @@ Ich entwickle die sauberste und effizienteste "All-in-One" Blocklist für **AdGu
       <b>80 TB Raw / 60 TB Netto</b> (4x 20TB <b>WD Red Pro</b> | RAID 5)
     </td>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <img src="https://img.icons8.com/fluency/48/ethernet-switch.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
-      <span style="font-size: 16px;"><b>Switching Power</b></span><br>
-      <b>Zyxel Switch</b> | 2.5 Gbit/s Low Latency
+      <img src="https://img.icons8.com/fluency/48/network-hub.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 16px;"><b>Network Backbone</b></span><br>
+      <b>2.5 Gbit/s LAN</b> (Zyxel/FRITZ!Box 7690) | <b>250 Mbit/s Hybrid WAN</b>
     </td>
   </tr>
   <tr>
-    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <img src="https://img.icons8.com/fluency/48/router.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
-      <span style="font-size: 16px;"><b>Network Backbone</b></span><br>
-      <b>AVM FRITZ!Box 7690</b> | 2.5 Gbit/s Fiber WAN | <b>250 Mbit/s Hybrid</b>
-    </td>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
       <img src="https://img.icons8.com/fluency/48/docker.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
       <span style="font-size: 16px;"><b>Container Orchestration</b></span><br>
       <b>Docker</b> Engine & <b>Portainer</b> Management
     </td>
-  </tr>
-  <tr>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
       <img src="https://img.icons8.com/fluency/48/python.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
       <span style="font-size: 16px;"><b>Automation & Sync</b></span><br>
       <b>Python</b> Scripts & GitHub Actions
     </td>
-    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      </td>
   </tr>
 </table>
 
 ---
 
 ## 📊 Ecosystem Insights
-*\*Note: Dynamical stats may require a moment to load and are sometimes subject to service availability.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechRZN-DNS&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5&icon_color=ff9e64&text_color=9ece6a&cb=2" height="195" alt="TechRZN Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRZN-DNS&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=9ece6a&cb=2" height="195" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TechRZN-DNS&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5&icon_color=ff9e64&text_color=9ece6a" height="195" alt="TechRZN Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRZN-DNS&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=9ece6a" height="195" alt="Top Langs" />
 </div>
 
 ---
