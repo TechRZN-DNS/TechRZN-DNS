@@ -1,55 +1,51 @@
-# 🛡️ TechRZN-DNS | High-Performance Infrastructure
+# 🛡️ TechRZN-DNS | Advanced Blocklist Collection
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Online-success?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network-2.5_Gbit%2Fs-blue?style=for-the-badge&logo=wi-fi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rules-1M%2B_Clean-orange?style=for-the-badge&logo=adguard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Container-Portainer-24292e?style=for-the-badge&logo=portainer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storage-80TB_RAID5-C1121C?style=for-the-badge&logo=western-digital&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project-TechRZN--Blocklist-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rules-1M%2B_Cleaned-orange?style=for-the-badge&logo=adguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Update-Daily_Automated-success?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 👋 **Willkommen bei TechRZN**
-Spezialisiert auf **High-Performance DNS-Filterung** und Netzwerk-Optimierung. Mein Ziel: Maximale Privatsphäre bei höchster Geschwindigkeit durch dedizierte Hardware-Power.
+Ich entwickle hochperformante DNS-Filterlösungen, um das Internet für alle sicherer und schneller zu machen. Mein Fokus liegt auf der Bereitstellung von **bereinigten, deduplizierten und täglich geprüften Blocklisten**, die maximale Privatsphäre ohne Performance-Einbußen garantieren.
 
 ---
 
-### 💻 Mein Tech-Stack & Hardware
-Ich betreibe eine spezialisierte Umgebung in Kleve, um Filter unter Realbedingungen zu testen. Diese Infrastruktur ist darauf ausgelegt, über 1 Million DNS-Regeln mit nahezu null Latenz zu verarbeiten.
+### 🌟 Das Hauptprojekt: [TechRZN-Blocklist-Collection](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
+Die ultimative "All-in-One" Lösung für **AdGuard Home**, **Pi-hole** und **Technitium**.
 
-| Komponente | Spezifikation |
-| :--- | :--- |
-| 🖥️ **Server** | **UGREEN NAS DXP4800 Plus** (Upgrade: **64 GB RAM**) |
-| ⚡ **Cache-Storage** | **2x 2TB Samsung 990 Pro NVMe** (Ultra-Fast Read/Write) |
-| 💿 **Mass-Storage** | **80 TB Raw / 60 TB Netto** (4x 20TB **WD Red Pro** @ **RAID 5**) |
-| ⚡ **Network** | **2,5 Gbit/s Full Backbone** (Zyxel Switching) |
-| 🌐 **Router** | **AVM FRITZ!Box 7690** (2,5 Gbit/s WAN/LAN) |
-| 🛡️ **DNS-Core** | **AdGuard Home** (DNSSEC & Caching) |
-| 🐳 **Management** | **Docker & Portainer** (Container Orchestration) |
-| 🤖 **Automation** | **Python & GitHub Actions** |
+* 🛡️ **Umfassender Schutz:** Über **1 Million aktive Regeln** gegen Malware, Tracking, Phishing und Werbung.
+* 🧹 **Clean & Fast:** Jede Liste wird automatisiert bereinigt, um "False Positives" zu minimieren und die DNS-Auflösung zu beschleunigen.
+* 🇩🇪 **Region-Fokus:** Speziell optimiert für den deutschsprachigen Raum (DE/AT/CH), inklusive Support für lokale Provider-Logins.
+* 🤖 **Always Up-to-Date:** Vollautomatische Updates alle 24 Stunden via GitHub Actions.
 
 ---
 
-### 🚀 Top Projekt: [TechRZN-Blocklist-Collection](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
-Täglich aktualisierte, bereinigte "All-in-One" Blocklist für **AdGuard Home**, **Pi-hole** und **Technitium**.
-
-* ✅ **1M+ Regeln** (Dedupliziert & Clean)
-* ✅ **Tägliche Updates** via GitHub Actions
-* ✅ **Optimiert** für DE/AT/CH Anschlüsse
-
----
-
-### 📊 GitHub Activity
+### 📊 Projekt-Statistiken
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=TechRZN-DNS&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### ☕ Support & Feedback
-Der Betrieb dieser 2,5 Gbit/s Test-Infrastruktur erfordert Zeit und Ressourcen.
-* **Support:** *Patreon aktuell in Prüfung – Stay tuned!*
-* **Feedback:** Eröffne ein Issue oder gib dem Projekt einen ⭐.
+### ☕ Unterstützung & Community
+Meine Arbeit ist Open Source und für jeden frei verfügbar.
+* **Feedback:** Hilf mir, die Listen zu verbessern! Eröffne ein [Issue](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection/issues).
+* **Support:** *Patreon aktuell in Prüfung – Unterstützungsmöglichkeiten folgen in Kürze.*
+
+---
+
+### ⚙️ Die Engine hinter TechRZN (Infrastructure)
+Um die Qualität und Stabilität meiner Listen zu garantieren, betreibe ich eine eigene Test-Umgebung unter Realbedingungen:
+<details>
+<summary><b>Hardware-Details anzeigen (Klicken)</b></summary>
+
+* **Server:** UGREEN NAS DXP4800 Plus (64 GB RAM Upgrade)
+* **Storage:** 80 TB WD Red Pro (RAID 5) & Samsung 990 Pro NVMe Cache
+* **Network:** Full 2.5 Gbit/s Backbone via Zyxel & FRITZ!Box 7690
+* **Management:** Docker & Portainer
+</details>
 
 <p align="center">
-  <b>Gepflegt mit ❤️ von TechRZN</b>
+  <b>Developed & Maintained by TechRZN</b>
 </p>
