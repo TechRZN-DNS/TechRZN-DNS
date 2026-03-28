@@ -98,8 +98,8 @@ Ich entwickle die effizienteste **"All-in-One" DNS-Blocklist** für **AdGuard Ho
 
 ## 📊 Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechRZN-DNS&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRZN-DNS&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TechRZN&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5&icon_color=ff9e64&text_color=9ece6a" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRZN&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5&icon_color=ff9e64&text_color=9ece6a" height="190" />
 </div>
 
 ---
@@ -114,7 +114,7 @@ Ich entwickle die effizienteste **"All-in-One" DNS-Blocklist** für **AdGuard Ho
   <a href="https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection/issues">
     <img src="https://img.shields.io/badge/⚠️_Report_an_Issue-white?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <a href="#">
+  <a href="https://www.patreon.com">
     <img src="https://img.shields.io/badge/💎_Patreon_(Soon)-black?style=for-the-badge&logo=patreon&logoColor=white" />
   </a>
 </p>
