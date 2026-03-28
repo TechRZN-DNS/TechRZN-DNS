@@ -69,18 +69,18 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
 <table align="center" width="100%" style="border-collapse: collapse; background-color: #0d1117; border-radius: 10px; overflow: hidden;">
   <tr>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <b>Compute Node:</b> UGREEN NAS DXP4800 Plus | <b>64 GB RAM</b>
+      <code>CORE NODE</code><br><b>UGREEN NAS DXP4800 Plus</b><br><img src="https://img.shields.io/badge/RAM-64_GB_ECC-7957d5?style=flat-square" />
     </td>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <b>IO-Layer:</b> 2x 2TB <b>Samsung 990 Pro</b> NVMe
+      <code>ACCELERATION</code><br><b>2x 2TB Samsung 990 Pro</b><br><img src="https://img.shields.io/badge/I/O-NVMe_Gen4-FF6B6B?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <b>Storage:</b> 80 TB Raw (4x 20TB <b>WD Red Pro</b> RAID 5)
+      <code>STORAGE</code><br><b>80 TB WD Red Pro</b><br><img src="https://img.shields.io/badge/ARRAY-RAID_5-00C853?style=flat-square" />
     </td>
     <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <b>Fabric:</b> Zyxel Switch | <b>2.5 Gbit/s Backbone</b>
+      <code>NETWORK</code><br><b>Zyxel Managed Switch</b><br><img src="https://img.shields.io/badge/FABRIC-2.5_Gbit-white?style=flat-square&logoColor=black" />
     </td>
   </tr>
 </table>
