@@ -95,23 +95,43 @@ Willkommen im **TechRZN Filter-Hub**. Dieses System liefert täglich synchronisi
 ---
 
 ## 🏗️ The Backbone: Bare-Metal Power
-*TechRZN operiert auf einer dedizierten High-Performance-Umgebung in Kleve, Germany.*
+*Die physische Infrastruktur hinter TechRZN. Jede Blockliste wird auf dedizierter Enterprise-Hardware prozessiert, validiert und verteilt.*
 
 <table align="center" width="100%" style="border-collapse: collapse; background-color: #0d1117;">
   <tr>
-    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <img src="https://img.icons8.com/fluency/48/server.png" width="30" /> <b>Compute:</b> UGREEN NAS | 64 GB RAM
+    <td align="left" width="50%" style="padding: 20px; border: 1px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/48/server.png" width="35" style="vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 17px;"><b>High-Performance Compute Node</b></span><br>
+      <b>UGREEN NAS DXP4800 Plus</b> | Massive <b>64 GB RAM Upgrade</b> für verzögerungsfreie Datenbank-Operationen und parallele Container-Prozesse.
     </td>
-    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <img src="https://img.icons8.com/fluency/48/ssd.png" width="30" /> <b>Cache:</b> 2x 2TB Samsung 990 Pro
+    <td align="left" width="50%" style="padding: 20px; border: 1px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/48/ssd.png" width="35" style="vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 17px;"><b>Ultra-Fast I/O Storage Layer</b></span><br>
+      2x 2TB <b>Samsung 990 Pro NVMe</b> (Raid 1 Cache). Garantiert extrem niedrige Lese-/Schreibzugriffe während der Filter-Kompilierung.
     </td>
   </tr>
   <tr>
-    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <img src="https://img.icons8.com/fluency/48/ethernet-switch.png" width="30" /> <b>Fabric:</b> Zyxel 2.5G Managed
+    <td align="left" width="50%" style="padding: 20px; border: 1px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/48/hdd.png" width="35" style="vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 17px;"><b>Redundant Data Array</b></span><br>
+      <b>80 TB Raw / 60 TB Netto</b> (4x 20TB <b>WD Red Pro</b> | RAID 5). Hardened Storage für Langzeit-Logs und Backup-Infrastruktur.
     </td>
-    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
-      <img src="https://img.icons8.com/fluency/48/router.png" width="30" /> <b>WAN:</b> FRITZ!Box 7690 | 250M Hybrid
+    <td align="left" width="50%" style="padding: 20px; border: 1px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/48/ethernet-switch.png" width="35" style="vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 17px;"><b>Multi-Gigabit Internal Fabric</b></span><br>
+      Managed <b>Zyxel Switch</b> mit durchgehendem <b>2.5 Gbit/s Backbone</b>. Keine Flaschenhälse zwischen Core-Node und Verteilungspunkten.
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%" style="padding: 20px; border: 1px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/48/router.png" width="35" style="vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 17px;"><b>Hybrid-Power WAN Gateway</b></span><br>
+      <b>AVM FRITZ!Box 7690</b> (2.5G WAN) | <b>250 Mbit/s Hybrid-Uplink</b>. Redundante Internetanbindung für unterbrechungsfreie tägliche Updates.
+    </td>
+    <td align="left" width="50%" style="padding: 20px; border: 1px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/48/docker.png" width="35" style="vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 17px;"><b>Virtualized Orchestration Layer</b></span><br>
+      <b>Docker & Portainer</b>. Isolierte Umgebungen für DNS-Resolver, Python-Automatisierung und Sicherheits-Datenbanken.
     </td>
   </tr>
 </table>
