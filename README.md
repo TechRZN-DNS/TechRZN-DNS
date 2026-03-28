@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=kalo&color=7957d5&height=180&section=header&text=TechRZN%20DNS%20MASTER%20CORE&fontSize=50&animation=twinkling&fontAlignY=35" width="100%" />
+<br>
 
 <p align="center"><img src="techrzn-dns.png" width="450" alt="TechRZN Logo" /></p>
 
