@@ -36,12 +36,26 @@ Willkommen im **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich akt
 
 ---
 
+## 🛠️ Installation & Nutzung
+
+Kopiere den Link der **Master-Liste** über die Buttons oben und füge ihn in dein System ein:
+
+### 🛡️ AdGuard Home
+* **Pfad:** Filter -> DNS-Sperrlisten -> Sperrliste hinzufügen -> Benutzerdefiniert.
+* **Tipp:** Aktiviere "Optimistisches Caching" in den DNS-Einstellungen für maximale Performance.
+
+### 🥧 Pi-hole
+* **Pfad:** Adlists -> URL einfügen -> Add. Danach `Update Gravity` unter Tools ausführen.
+* **Tipp:** Nutze den Button oben, um sicherzugehen, dass du das "Raw"-Format kopierst.
+
+---
+
 ## 🧩 Modulare Filter-Architektur (Die 14 Module)
 | Modul | Fokus / Schutzbereich | Direkt-Link |
 | :--- | :--- | :--- |
 | 🥇 **HaGeZi Pro** | Weltweiter Schutz (Gold Standard) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_pro.txt) |
 | 🔐 **Bypass Filter** | VPN, Proxy, Tor & Bypass-Methoden | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_bypass.txt) |
-| 🏴‍C **Threat Intel** | Schutz vor Cyberangriffen & Botnetzen | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_threat.txt) |
+| 🏴‍☠️ **Threat Intel** | Schutz vor Cyberangriffen & Botnetzen | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_threat.txt) |
 | 🇩🇪 **German Filter** | **Spezielle Optimierung für DE / AT / CH** | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/adguard_german.txt) |
 | 📺 **Smart TV** | Unterbindet TV-Tracking & Werbung | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/smart_tv.txt) |
 | 🦠 **URLHaus** | Malware-URLs & Phishing (Echtzeit) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/urlhaus_malicious.txt) |
@@ -85,14 +99,6 @@ Willkommen im **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich akt
     </td>
   </tr>
 </table>
-
----
-
-## 📊 Statistiken
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechRZN&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=9ece6a" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRZN&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=9ece6a" height="170" />
-</p>
 
 ---
 
