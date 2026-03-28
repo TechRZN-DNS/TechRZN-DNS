@@ -39,8 +39,8 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
 ## 🧩 Modulare Filter-Architektur (Die 11 Module)
 | Modul | Fokus / Schutzbereich | Raw-Link |
 | :--- | :--- | :--- |
-| 🥇 **HaGeZi Pro** | All-in-One Schutz (Gold Standard) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/hagezi_pro.txt) |
-| 🔐 **Bypass Filter** | VPN, Proxy, Tor & Bypass-Methoden | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/bypass.txt) |
+| 🥇 **HaGeZi Pro** | Weltweiter All-in-One Schutz (Gold Standard) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/hagezi_pro.txt) |
+| 🔐 **Bypass Filter** | Blockierung von VPN, Proxy, Tor & Bypass-Methoden | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/bypass.txt) |
 | 🏴‍☠️ **Threat Intel** | Schutz vor Cyber-Angriffen & Botnets | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/threat_intel.txt) |
 | 🇩🇪 **German Filter** | **Spezial-Optimierung für DE / AT / CH** | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/german_filter.txt) |
 | 📺 **Smart-TV** | Unterbindung von TV-Tracking & Werbung | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/smart_tv.txt) |
@@ -102,7 +102,7 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
 ---
 
 ## ❤️ Support & Infrastruktur
-Der tägliche Betrieb der **2,5 Gbit/s Test-Umgebung** und die Pflege von über 1 Million Regeln erfordern Zeit und Ressourcen. Wenn dir meine Arbeit hilft:
+Der tägliche Betrieb der **2,5 Gbit/s Test-Umgebung** in Kleve und die Pflege von über 1 Million Regeln erfordern massiv Zeit und Ressourcen. Wenn dir meine Arbeit hilft:
 
 * **Feedback:** Eröffne ein [Issue](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection/issues) oder gib dem Projekt einen ⭐.
 * **Support:** Kontaktiere mich bei Interesse an einer Unterstützung einfach direkt.
