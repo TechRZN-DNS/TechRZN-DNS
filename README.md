@@ -2,7 +2,9 @@
 
 <br>
 
-<p align="center"><img src="techrzn-dns.png" width="450" alt="TechRZN Logo" /></p>
+<p align="center">
+  <img src="techrzn-dns.png" width="450" alt="TechRZN Advanced DNS Stack" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE_INFRASTRUCTURE-00C853?style=for-the-badge&logo=statuspage&logoColor=white" />
@@ -37,7 +39,7 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
 | :--- | :--- | :--- |
 | 🥇 **HaGeZi Pro** | Weltweiter All-in-One Schutz (Gold Standard) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/hagezi_pro.txt) |
 | 🔐 **Bypass Filter** | VPN, Proxy, Tor & Bypass-Methoden | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/bypass.txt) |
-| 🏴‍☠️ **Threat Intel** | Schutz vor Cyber-Angriffen & Botnets | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/threat_intel.txt) |
+| 🏴‍CERT **Threat Intel** | Schutz vor Cyber-Angriffen & Botnets | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/threat_intel.txt) |
 | 🇩🇪 **German Filter** | **Spezial-Optimierung für DE / AT / CH** | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/german_filter.txt) |
 | 📺 **Smart-TV** | Unterbindung von TV-Tracking & Werbung | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/smart_tv.txt) |
 | 🦠 **URLHaus** | Malware-URLs & Phishing (Echtzeit) | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/urlhaus.txt) |
@@ -46,20 +48,6 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine täglich a
 | ⚠️ **Fake DNS** | Schutz vor Scam & Fake-Shops | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/fake_dns.txt) |
 | 📜 **Dan Pollock** | Legendärer Hosts-File Klassiker | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/dan_pollock.txt) |
 | 📍 **TechRZN IPs** | Eigene Liste bösartiger IP-Adressen | [Link](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/techrzn_ips.txt) |
-
----
-
-## ⚙️ Optimale AdGuard Home Einstellungen
-*Konfiguration für maximale Stabilität bei 1M+ aktiven Regeln:*
-
-| Kategorie | Einstellung | Empfohlener Wert |
-| :--- | :--- | :--- |
-| **DNS-Cache** | Cache-Größe | **100 MB** (104.857.600 Bytes) ✅ |
-| **DNS-Cache** | Optimistisches Caching | **Aktiviert** ✅ |
-| **TTL** | Minimalwert / Höchstwert | **3600** (1h) / **86400** (24h) |
-| **Upstream** | **Upstream-Timeout** | **2 - 5 Sekunden** ⏳ |
-| **Upstream** | **Parallele Abfrage** | **Eingeschaltet** (Schnellste Antwort) ⚡ |
-| **Antwort** | **Gültigkeitsdauer (Blockiert)** | **300 Sekunden** ✅ |
 
 ---
 
