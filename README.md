@@ -1,60 +1,73 @@
 <div align="center">
 
-# 🛠️ TechRZN-DNS
-### **Enterprise-Grade DNS Security & Network Performance**
+# 🛡️ TechRZN Infrastructure & Security
+### **Enterprise-Grade DNS Filtering | 1M+ Rules | High-Performance Setup**
 
-[![Main Project](https://img.shields.io/badge/Project-TechRZN--Blocklist-7957d5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
-[![Rules](https://img.shields.io/badge/Rules-1M%2B_Filtered-orange?style=for-the-badge&logo=adguard&logoColor=white)](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
-[![Updates](https://img.shields.io/badge/Status-Daily_Automated-success?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
-[![Infrastructure](https://img.shields.io/badge/Network-2.5G_Fiber-blue?style=for-the-badge&logo=ugreen&logoColor=white)](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
+<p align="center">
+  <a href="https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection">
+    <img src="https://img.shields.io/badge/Main_Project-TechRZN_Blocklist-7957d5?style=for-the-badge&logo=github&logoColor=white" alt="Project">
+  </a>
+  <a href="https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection">
+    <img src="https://img.shields.io/badge/Rules-1M%2B_Filtered-FF6B6B?style=for-the-badge&logo=adguard&logoColor=white" alt="Rules">
+  </a>
+  <a href="https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection">
+    <img src="https://img.shields.io/badge/Updates-Daily_Automated-00C853?style=for-the-badge&logo=githubactions&logoColor=white" alt="Updates">
+  </a>
+</p>
 
 ---
 
-## 🌟 The Core Mission: [TechRZN-Blocklist-Collection](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
+## 🌟 The Core Mission: TechRZN-Blocklist-Collection
 **Maximale Privatsphäre ohne Kompromisse bei der Geschwindigkeit.**
 
-Ich entwickle und pflege eine bereinigte, deduplizierte "All-in-One" Blocklist für **AdGuard Home**, **Pi-hole** und **Technitium**. Speziell optimiert für den deutschsprachigen Raum und moderne Glasfaser-Infrastrukturen.
+Ich entwickle die sauberste und effizienteste "All-in-One" Blocklist für **AdGuard Home**, **Pi-hole** und **Technitium**. Speziell optimiert für den deutschsprachigen Raum und High-Speed-Infrastrukturen.
 
-| 🛡️ Security First | ⚡ Ultra-Fast DNS | 🇩🇪 Regional Focus |
+| <img src="https://img.icons8.com/fluency/48/000000/shield.png" width="24"/> Security First | <img src="https://img.icons8.com/fluency/48/000000/flash-on.png" width="24"/> Ultra-Fast DNS | <img src="https://img.icons8.com/fluency/48/000000/germany-map.png" width="24"/> Regional Focus |
 | :--- | :--- | :--- |
-| Schutz vor Malware, Phishing & Trackern. | Deduplizierte Regeln für blitzschnelle Auflösung. | Optimiert für DE/AT/CH & lokale ISPs. |
+| **Schutz vor Malware & Trackern.**<br>Umfassende Filterung toxischer Domains. | **Blitzschnelle Auflösung.**<br>Dedupliziert und auf Performance getrimmt. | **Optimiert für DE/AT/CH.**<br>Voller Support für lokale ISP-Logins. |
 
-[**👉 JETZT ZUR BLOCKLIST-COLLECTION WECHSELN**](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
+### [👉 JETZT ZUR BLOCKLIST-COLLECTION WECHSELN](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
 
 ---
 
-## ⚙️ The Engine: High-End Infrastructure Stack
-*Um die Stabilität und Null-Latenz-Filterung meiner Listen zu garantieren, wird TechRZN auf dedizierter Enterprise-Hardware unter Realbedingungen getestet.*
+## ⚙️ The Engine: High-End Hardware Stack
+*TechRZN wird von einer massiven, dedizierten 24/7 Enterprise-Infrastruktur angetrieben, um absolut latenzfreie DNS-Filterung unter extremen Bedingungen zu garantieren.*
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td align="left" width="50%">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/server.svg" width="24" height="24" style="filter: invert(50%) sepia(80%) saturate(500%) hue-rotate(220deg);"/> **Server Core**<br>
-      <b>UGREEN NAS DXP4800 Plus** | Upgraded to **64 GB RAM**
+    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/48/server.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 16px;"><b>Server Core</b></span><br>
+      <b>UGREEN NAS DXP4800 Plus</b> | Upgraded to <b>64 GB RAM</b>
     </td>
-    <td align="left" width="50%">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/bolt.svg" width="24" height="24" style="filter: invert(50%) sepia(80%) saturate(500%) hue-rotate(30deg);"/> **Cache Power**<br>
-      2x 2TB <b>Samsung 990 Pro NVMe** (Ultra-Fast I/O)
+    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/48/ssd.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 16px;"><b>NVMe Cache Power</b></span><br>
+      2x 2TB <b>Samsung 990 Pro NVMe</b> (Ultra-Fast I/O)
     </td>
   </tr>
   <tr>
-    <td align="left" width="50%">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/hard-drive.svg" width="24" height="24" style="filter: invert(50%) sepia(80%) saturate(500%) hue-rotate(0deg);"/> **Mass Storage**<br>
-      <b>80 TB Raw / 60 TB Netto** (4x 20TB **WD Red Pro** | RAID 5)
+    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/48/hdd.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 16px;"><b>Mass Storage Array</b></span><br>
+      <b>80 TB Raw / 60 TB Netto</b> (4x 20TB <b>WD Red Pro</b> | RAID 5)
     </td>
-    <td align="left" width="50%">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/network-wired.svg" width="24" height="24" style="filter: invert(50%) sepia(80%) saturate(500%) hue-rotate(180deg);"/> **Network Backbone**<br>
-      <b>2,5 Gbit/s Full Backbone** | Zyxel Switching | FRITZ!Box 7690
+    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/48/network-hub.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 16px;"><b>Network Backbone</b></span><br>
+      <b>2.5 Gbit/s LAN</b> (Zyxel/FRITZ!Box 7690) | <b>250 Mbit/s Hybrid WAN</b>
     </td>
   </tr>
   <tr>
-    <td align="left" width="50%">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/docker.svg" width="24" height="24" style="filter: invert(50%) sepia(80%) saturate(500%) hue-rotate(180deg);"/> **Orchestration**<br>
-      Docker & **Portainer** (Container Orchestration)
+    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/48/docker.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 16px;"><b>Container Orchestration</b></span><br>
+      <b>Docker</b> Engine & <b>Portainer</b> Management
     </td>
-    <td align="left" width="50%">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/gears.svg" width="24" height="24" style="filter: invert(50%) sepia(80%) saturate(500%) hue-rotate(120deg);"/> **Automation**<br>
-      Python & GitHub Actions
+    <td align="left" width="50%" style="padding: 15px; border: 1px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/48/python.png" style="width: 32px; vertical-align: middle; margin-right: 10px;" />
+      <span style="font-size: 16px;"><b>Automation & Sync</b></span><br>
+      <b>Python</b> Scripts & GitHub Actions
     </td>
   </tr>
 </table>
@@ -62,23 +75,22 @@ Ich entwickle und pflege eine bereinigte, deduplizierte "All-in-One" Blocklist f
 ---
 
 ## 📊 Ecosystem Insights
+
 <div align="center">
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TechRZN-DNS&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5&icon_color=ff9e64&text_color=9ece6a" width="400" alt="TechRZN Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRZN-DNS&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=9ece6a" width="300" alt="Top Langs" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=TechRZN-DNS&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5&icon_color=ff9e64&text_color=9ece6a" height="195" alt="TechRZN Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRZN-DNS&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=9ece6a" height="195" alt="Top Langs" />
 </div>
 
 ---
 
 ## ☕ Support & Connect
-Feedback fuels this project. If TechRZN makes your internet better, consider a ⭐!
+Der Betrieb der 2.5G/Hybrid-Infrastruktur und die tägliche Pflege von 1 Million Regeln erfordert Zeit und Ressourcen. Wenn dir meine Arbeit hilft:
 
-**[Open an Issue](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection/issues) • [Support on Patreon (In Review ⏳)]()**
+**[Eröffne ein Issue](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection/issues) • [Hinterlasse einen ⭐](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection) • Patreon (In Prüfung ⏳)**
 
 <br>
 
-**Developed with precision by TechRZN-DNS**
+**Engineered with precision by TechRZN-DNS**
 <br>
 *Maintained with ❤️ in Kleve, Germany*
 
