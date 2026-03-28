@@ -6,7 +6,7 @@
 [![Main Project](https://img.shields.io/badge/Project-TechRZN--Blocklist-7957d5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
 [![Rules](https://img.shields.io/badge/Rules-1M%2B_Filtered-orange?style=for-the-badge&logo=adguard&logoColor=white)](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
 [![Updates](https://img.shields.io/badge/Status-Daily_Automated-success?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
-[![Hardware](https://img.shields.io/badge/Infrastructure-2.5G_Fiber-blue?style=for-the-badge&logo=ugreen&logoColor=white)](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
+[![Infrastructure](https://img.shields.io/badge/Network-2.5G_Fiber-blue?style=for-the-badge&logo=ugreen&logoColor=white)](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
 
 ---
 
@@ -29,41 +29,33 @@ Ich entwickle und pflege eine bereinigte, deduplizierte "All-in-One" Blocklist f
 <table align="center" width="100%">
   <tr>
     <td align="left" width="50%">
-      <img src="https://img.icons8.com/color/48/000000/server.png"/> **Server Core**<br>
-      <b>UGREEN NAS DXP4800 Plus</b> | Upgraded to **64 GB RAM**
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/server.svg" width="24" height="24" style="filter: invert(50%) sepia(80%) saturate(500%) hue-rotate(220deg);"/> **Server Core**<br>
+      <b>UGREEN NAS DXP4800 Plus** | Upgraded to **64 GB RAM**
     </td>
     <td align="left" width="50%">
-      <img src="https://img.icons8.com/color/48/000000/flash-on.png"/> **Cache Power**<br>
-      2x 2TB <b>Samsung 990 Pro NVMe</b> (Ultra-Fast I/O)
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="50%">
-      <img src="https://img.icons8.com/color/48/000000/hard-disk.png"/> **Mass Storage**<br>
-      <b>80 TB Raw / 60 TB Netto</b> (4x 20TB **WD Red Pro** | RAID 5)
-    </td>
-    <td align="left" width="50%">
-      <img src="https://img.icons8.com/color/48/000000/router.png"/> **Core Router**<br>
-      <b>AVM FRITZ!Box 7690</b> (2.5G Fiber Backbone)
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/bolt.svg" width="24" height="24" style="filter: invert(50%) sepia(80%) saturate(500%) hue-rotate(30deg);"/> **Cache Power**<br>
+      2x 2TB <b>Samsung 990 Pro NVMe** (Ultra-Fast I/O)
     </td>
   </tr>
   <tr>
     <td align="left" width="50%">
-      <img src="https://img.icons8.com/color/48/000000/ethernet.png"/> **Network**<br>
-      <b>2,5 Gbit/s Full Backbone</b> | Zyxel Switching
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/hard-drive.svg" width="24" height="24" style="filter: invert(50%) sepia(80%) saturate(500%) hue-rotate(0deg);"/> **Mass Storage**<br>
+      <b>80 TB Raw / 60 TB Netto** (4x 20TB **WD Red Pro** | RAID 5)
     </td>
     <td align="left" width="50%">
-      <img src="https://img.icons8.com/color/48/000000/docker.png"/> **Management**<br>
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/network-wired.svg" width="24" height="24" style="filter: invert(50%) sepia(80%) saturate(500%) hue-rotate(180deg);"/> **Network Backbone**<br>
+      <b>2,5 Gbit/s Full Backbone** | Zyxel Switching | FRITZ!Box 7690
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/docker.svg" width="24" height="24" style="filter: invert(50%) sepia(80%) saturate(500%) hue-rotate(180deg);"/> **Orchestration**<br>
       Docker & **Portainer** (Container Orchestration)
     </td>
-  </tr>
-  <tr>
     <td align="left" width="50%">
-      <img src="https://img.icons8.com/color/48/000000/code.png"/> **Automation**<br>
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/gears.svg" width="24" height="24" style="filter: invert(50%) sepia(80%) saturate(500%) hue-rotate(120deg);"/> **Automation**<br>
       Python & GitHub Actions
     </td>
-    <td align="left" width="50%">
-      </td>
   </tr>
 </table>
 
@@ -71,16 +63,10 @@ Ich entwickle und pflege eine bereinigte, deduplizierte "All-in-One" Blocklist f
 
 ## 📊 Ecosystem Insights
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=TechRZN-DNS&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5&icon_color=ff9e64&text_color=9ece6a" width="400" alt="TechRZN Stats" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRZN-DNS&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=9ece6a" width="300" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TechRZN-DNS&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5&icon_color=ff9e64&text_color=9ece6a" width="400" alt="TechRZN Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRZN-DNS&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=9ece6a" width="300" alt="Top Langs" />
+</p>
 </div>
 
 ---
