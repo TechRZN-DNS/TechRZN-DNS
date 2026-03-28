@@ -1,67 +1,86 @@
 <div align="center">
 
-# 🛡️ TechRZN Infrastructure & DNS Security
-### **High-Performance Blocklists | 1M+ Rules | 2.5G Fiber Optimized**
+# 🛠️ TechRZN-DNS
+### **Enterprise-Grade DNS Security & Network Performance**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Main_Project-Blocklist_Collection-7957d5?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Updates-Daily_Automated-success?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-Advanced_Filtering-orange?style=for-the-badge&logo=adguard&logoColor=white" />
-</p>
+[![Main Project](https://img.shields.io/badge/Project-TechRZN--Blocklist-7957d5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
+[![Rules](https://img.shields.io/badge/Rules-1M%2B_Filtered-orange?style=for-the-badge&logo=adguard&logoColor=white)](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
+[![Updates](https://img.shields.io/badge/Status-Daily_Automated-success?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
+[![Hardware](https://img.shields.io/badge/Infrastructure-2.5G_Fiber-blue?style=for-the-badge&logo=ugreen&logoColor=white)](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
 
 ---
 
-## 🚀 The Core Project: [TechRZN-Blocklist-Collection](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
-**Privacy without compromise. Speed without limits.**
+## 🌟 The Core Mission: [TechRZN-Blocklist-Collection](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
+**Maximale Privatsphäre ohne Kompromisse bei der Geschwindigkeit.**
 
-I develop and maintain a clean, deduplicated "All-in-One" blocklist for **AdGuard Home**, **Pi-hole**, and **Technitium**. Optimized specifically for the DACH region (DE/AT/CH) and high-speed fiber connections.
+Ich entwickle und pflege eine bereinigte, deduplizierte "All-in-One" Blocklist für **AdGuard Home**, **Pi-hole** und **Technitium**. Speziell optimiert für den deutschsprachigen Raum und moderne Glasfaser-Infrastrukturen.
 
-| 🛡️ Security | ⚡ Performance | 🇩🇪 Regionality |
+| 🛡️ Security First | ⚡ Ultra-Fast DNS | 🇩🇪 Regional Focus |
 | :--- | :--- | :--- |
-| Protection against Malware, Phishing & Tracking. | Deduplicated rules for ultra-fast DNS resolution. | Optimized for DE/AT/CH & local ISP logins. |
+| Schutz vor Malware, Phishing & Trackern. | Deduplizierte Regeln für blitzschnelle Auflösung. | Optimiert für DE/AT/CH & lokale ISPs. |
+
+[**👉 JETZT ZUR BLOCKLIST-COLLECTION WECHSELN**](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)
 
 ---
 
-## 📊 Ecosystem Insights
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TechRZN-DNS&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5&icon_color=ff9e64" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRZN-DNS&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5" width="300" />
-</p>
+## ⚙️ The Engine: High-End Infrastructure Stack
+*Um die Stabilität und Null-Latenz-Filterung meiner Listen zu garantieren, wird TechRZN auf dedizierter Enterprise-Hardware unter Realbedingungen getestet.*
 
----
-
-## ⚙️ The Engine: High-End Hardware Stack
-*TechRZN is powered by a dedicated 24/7 testing environment to ensure zero-latency filtering.*
-
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="left"><b>🖥️ Server Core</b></td>
-    <td>UGREEN NAS DXP4800 Plus | <b>64 GB RAM Upgrade</b></td>
+    <td align="left" width="50%">
+      <img src="https://img.icons8.com/color/48/000000/server.png"/> **Server Core**<br>
+      <b>UGREEN NAS DXP4800 Plus</b> | Upgraded to **64 GB RAM**
+    </td>
+    <td align="left" width="50%">
+      <img src="https://img.icons8.com/color/48/000000/flash-on.png"/> **Cache Power**<br>
+      2x 2TB <b>Samsung 990 Pro NVMe</b> (Ultra-Fast I/O)
+    </td>
   </tr>
   <tr>
-    <td align="left"><b>⚡ Cache Power</b></td>
-    <td>2x 2TB <b>Samsung 990 Pro NVMe</b> (Ultra-Fast I/O)</td>
+    <td align="left" width="50%">
+      <img src="https://img.icons8.com/color/48/000000/hard-disk.png"/> **Mass Storage**<br>
+      <b>80 TB Raw / 60 TB Netto</b> (4x 20TB **WD Red Pro** | RAID 5)
+    </td>
+    <td align="left" width="50%">
+      <img src="https://img.icons8.com/color/48/000000/ethernet.png"/> **Connectivity**<br>
+      <b>2,5 Gbit/s Full Backbone</b> | FRITZ!Box 7690 | Zyxel Switching
+    </td>
   </tr>
   <tr>
-    <td align="left"><b>💿 Mass Storage</b></td>
-    <td>80 TB Raw / 60 TB Netto (4x 20TB <b>WD Red Pro</b> | RAID 5)</td>
-  </tr>
-  <tr>
-    <td align="left"><b>🌐 Connectivity</b></td>
-    <td><b>2.5 Gbit/s Full Backbone</b> | FRITZ!Box 7690 | Zyxel Switching</td>
-  </tr>
-  <tr>
-    <td align="left"><b>🐳 Orchestration</b></td>
-    <td>Docker & <b>Portainer</b> (Container Management)</td>
+    <td align="left" width="50%">
+      <img src="https://img.icons8.com/color/48/000000/docker.png"/> **Management**<br>
+      Docker & **Portainer** (Container Orchestration)
+    </td>
+    <td align="left" width="50%">
+      <img src="https://img.icons8.com/color/48/000000/code.png"/> **Automation**<br>
+      Python & GitHub Actions
+    </td>
   </tr>
 </table>
 
 ---
 
-## ☕ Connect & Support
+## 📊 Ecosystem Insights
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=TechRZN-DNS&show_icons=true&theme=tokyonight&hide_border=true&title_color=7957d5&icon_color=ff9e64&text_color=9ece6a" width="400" alt="TechRZN Stats" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRZN-DNS&layout=compact&theme=tokyonight&hide_border=true&title_color=7957d5&text_color=9ece6a" width="300" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## ☕ Support & Connect
 Feedback fuels this project. If TechRZN makes your internet better, consider a ⭐!
 
-**[Open an Issue](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection/issues) • [Support on Patreon (Coming Soon)]() • [Contact via GitHub]()**
+**[Open an Issue](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection/issues) • [Support on Patreon (In Review ⏳)]()**
 
 <br>
 
