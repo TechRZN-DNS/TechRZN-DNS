@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-INFRASTRUKTUR_AKTIV-00C853?style=for-the-badge&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/DATENBANK-1M%2B_REGELN-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATENBANK-2.2M%2B_REGELN-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/UPLINK-2.5_GBIT_BACKBONE-7957d5?style=for-the-badge&logo=wi-fi&logoColor=white" />
 </p>
 
@@ -36,15 +36,21 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 ---
 
 ## 🚀 Direkt-Einbindung
-*Nutze die Master-Liste für den kompletten Schutz oder die Whitelist für Ausnahmen.*
+*Nutze die Master-Liste (aufgeteilt in 2 Teile) für kompletten Schutz oder die Whitelist.*
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_blocklist.txt">
-    <img src="https://img.shields.io/badge/MASTER_LISTE-LINK_KOPIEREN-7957d5?style=for-the-badge&logo=adguard&logoColor=white" height="45" />
+  <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_part1.txt">
+    <img src="https://img.shields.io/badge/MASTER_TEIL_1-LINK-7957d5?style=for-the-badge&logo=adguard&logoColor=white" height="45" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/combined_part2.txt">
+    <img src="https://img.shields.io/badge/MASTER_TEIL_2-LINK-7957d5?style=for-the-badge&logo=adguard&logoColor=white" height="45" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/whitelist.txt">
-    <img src="https://img.shields.io/badge/WHITELIST-LINK_KOPIEREN-blue?style=for-the-badge&logo=github&logoColor=white" height="45" />
+    <img src="https://img.shields.io/badge/WHITELIST-LINK_KOPIEREN-blue?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
 </p>
 
@@ -57,7 +63,7 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 <blockquote>
 1. Gehe zu <b>Filter</b> ➔ <b>DNS-Sperrlisten</b>.<br>
 2. Klicke auf <b>Sperrliste hinzufügen</b> ➔ <b>Benutzerdefinierte Liste</b>.<br>
-3. Name: <code>TechRZN Master</code> | URL: Button oben nutzen.<br>
+3. Füge <b>Teil 1</b> und <b>Teil 2</b> als separate Listen hinzu.<br>
 4. <b>Pro-Tipp:</b> Aktiviere <i>Optimistisches Caching</i> für maximale Geschwindigkeit.
 </blockquote>
 </details>
@@ -67,7 +73,7 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 <br>
 <blockquote>
 1. Gehe zu <b>Adlists</b> im linken Menü.<br>
-2. Füge die URL in das Feld <b>Address</b> ein.<br>
+2. Füge beide URLs nacheinander in das Feld <b>Address</b> ein.<br>
 3. Klicke auf <b>Add</b>.<br>
 4. <b>Wichtig:</b> Führe unter <i>Tools</i> ➔ <i>Update Gravity</i> ein Update aus.
 </blockquote>
@@ -76,7 +82,7 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 ---
 
 ## 🛠️ TechRZN Spezial-Module (Inland-Kuration)
-*Diese 14 Listen werden direkt in Kleve gepflegt und sind das Herzstück der Master-Liste.*
+*Diese Listen werden direkt in Kleve gepflegt und auf maximale Präzision optimiert.*
 
 | Status | Modul | Fokus | Link |
 | :---: | :--- | :--- | :---: |
@@ -85,10 +91,10 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 | 🎣 | **Phishing Guard** | Fake-Logins & Scam-Seiten | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_phishing.txt) |
 | 🛑 | **Threat Intel** | Aktive Botnetze & Angriffswellen | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_threat_intel.txt) |
 | 🛍️ | **Fakeshops** | Betrugsshops & Abofallen | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_fakeshops.txt) |
-| 🔞 | **Porn & Adult** | Explizite Inhalte (Vollfilter) | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_porn.txt) |
+| 🔞 | **Porn & Adult** | Explizite Inhalte (Vollfilter) | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/techrzn_porn.txt) |
 | 🏠 | **Typosquatting** | Schutz vor Tippfehler-Domains | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_domain_squatting.txt) |
 | 🎰 | **Gambling** | Casinos & Wettanbieter | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_gambling.txt) |
-| 🧒 | **Jugendschutz** | Family-Filter für Kinder | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_jugendschutz.txt) |
+| 🧒 | **Jugendschutz** | Family-Filter für Kinder | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/techrzn_jugendschutz.txt) |
 | 🪙 | **Crypto-Shield** | Mining & Krypto-Betrug | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_crypto.txt) |
 | ❤️ | **Dating Filter** | Partnerbörsen & Portale | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_dating.txt) |
 | 🧪 | **Fake Science** | Desinformation & Pseudo-Wissenschaft | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/blocklists/techrzn_fake_science.txt) |
@@ -98,7 +104,7 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 ---
 
 ## 🧩 Die 14 Core-Module (Externe Basis)
-*Diese 14 externen Module bilden das Fundament meines privaten Setups.*
+*Diese Module bilden das bewährte Fundament der Sammlung.*
 
 | Einsatz | Modul | Fokus | Link |
 | :---: | :--- | :--- | :---: |
@@ -125,29 +131,29 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 <table align="center" width="100%" style="border-collapse: collapse; background-color: #0d1117; border-radius: 12px; overflow: hidden; border: 1px solid #30363d;">
   <tr>
     <td align="left" style="padding: 20px;">
-      <b>CORE</b><br>UGREEN NAS DXP4800 Plus<br>
-      <img src="https://img.shields.io/badge/64_GB_DDR5_ECC-7957d5?style=flat-square" />
+      <b>CORE NODE</b><br>UGREEN NAS DXP4800 Plus<br>
+      <img src="https://img.shields.io/badge/64_GB_DDR5_ECC-7957d5?style=flat-square" alt="RAM" />
     </td>
     <td align="left" style="padding: 20px;">
-      <b>SSD</b><br>Samsung 990 Pro RAID<br>
-      <img src="https://img.shields.io/badge/NVMe_Gen4-FF6B6B?style=flat-square" />
+      <b>SSD SPEICHER</b><br>Samsung 990 Pro RAID<br>
+      <img src="https://img.shields.io/badge/NVMe_Gen4-FF6B6B?style=flat-square" alt="NVMe" />
     </td>
   </tr>
   <tr>
     <td align="left" style="padding: 20px;">
-      <b>NETWORK</b><br>2.5 Gbit Hybrid-Backbone<br>
-      <img src="https://img.shields.io/badge/Zyxel_Managed-00D2FF?style=flat-square" />
+      <b>NETZWERK</b><br>2.5 Gbit Hybrid-Power<br>
+      <img src="https://img.shields.io/badge/Zyxel_Managed-00D2FF?style=flat-square" alt="Switch" />
     </td>
     <td align="left" style="padding: 20px;">
-      <b>HDD</b><br>80 TB WD Red Pro<br>
-      <img src="https://img.shields.io/badge/RAID_5_ZFS-00C853?style=flat-square" />
+      <b>HDD STORAGE</b><br>80 TB WD Red Pro<br>
+      <img src="https://img.shields.io/badge/RAID_5_ZFS-00C853?style=flat-square" alt="ZFS" />
     </td>
   </tr>
 </table>
 
 ---
 
-**Gepflegt mit ❤️ von Madleen Berns in Kleve • Stand: März 2026**
+**Gepflegt mit ❤️ von Jörg Berns in Kleve • Stand: März 2026**
 <br>
 <img src="https://capsule-render.vercel.app/render?type=soft&color=7957d5&height=30&section=footer" width="100%" />
 
