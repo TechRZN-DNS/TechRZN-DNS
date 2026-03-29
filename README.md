@@ -52,6 +52,28 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
   </a>
 </p>
 
+<details open>
+<summary><b>📦 Was steckt in der Master-Liste? (Inhaltsverzeichnis)</b></summary>
+<br>
+
+| Modul | Schutzwirkung | Icon |
+| :--- | :--- | :---: |
+| **TechRZN Tracking** | Stoppt Datensammler (Windows, Android, iOS, Smart-TV). | 📱 |
+| **TechRZN Ads** | Blockiert aggressive Werbenetzwerke & Popups. | 🚫 |
+| **TechRZN Malware** | Sperrt C2-Server und Schadsoftware-Quellen. | 🛡️ |
+| **TechRZN Phishing** | Abwehr von Fake-Logins und Scam-Seiten. | 🔑 |
+| **TechRZN Fakeshops** | Sperrt bekannte Betrugsshops & Abofallen. | 🛒 |
+| **TechRZN Squatting** | Blockiert Imitate bekannter Markennamen. | 🔍 |
+| **TechRZN IPs** | DNS-Sperre für bösartige IP-Adressen. | 🖥️ |
+| **TechRZN Threat Intel**| Schutz vor aktiven Botnetzen & Angriffswellen. | 🛑 |
+| **TechRZN Gambling** | Blockiert Casinos, Wetten & Lootboxen. | 🎰 |
+| **TechRZN Crypto** | Stoppt Browser-Miner & Krypto-Scams. | 🪙 |
+| **TechRZN Dating** | Unterbindet Zugriff auf Partnerbörsen. | ❤️ |
+| **TechRZN Spam** | Filtert aggressive Mail-Tracker & Spam-Domains. | 📧 |
+| **TechRZN Bypass** | Verhindert VPN/Proxy-Umgehungen im Netzwerk. | 🔓 |
+
+</details>
+
 <p align="center">
   <a href="https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/whitelist.txt">
     <img src="https://img.shields.io/badge/WHITELIST-LINK_KOPIEREN-blue?style=for-the-badge&logo=github&logoColor=white" height="35" />
@@ -82,28 +104,6 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 > [!IMPORTANT]
 > **Der TechRZN Performance-Vorteil:** Würdest du alle Quellen einzeln einbinden, müsste dein System über **5,5 Millionen** Einträge verwalten. Die TechRZN-Engine filtert Redundanzen und Dubletten heraus, sodass nur **~2,2 Millionen hocheffektive Regeln** übrig bleiben.
 > **Ergebnis:** Maximaler Schutz bei ca. **60% weniger Systemlast** und spürbar schnelleren DNS-Antwortzeiten.
-
-<details open>
-<summary><b>📦 Was steckt in der Master-Liste? (Inhaltsverzeichnis)</b></summary>
-<br>
-
-| Modul | Schutzwirkung | Icon |
-| :--- | :--- | :---: |
-| **TechRZN Tracking** | Stoppt Datensammler (Windows, Android, iOS, Smart-TV). | 📱 |
-| **TechRZN Ads** | Blockiert aggressive Werbenetzwerke & Popups. | 🚫 |
-| **TechRZN Malware** | Sperrt C2-Server und Schadsoftware-Quellen. | 🛡️ |
-| **TechRZN Phishing** | Abwehr von Fake-Logins und Scam-Seiten. | 🔑 |
-| **TechRZN Fakeshops** | Sperrt bekannte Betrugsshops & Abofallen. | 🛒 |
-| **TechRZN Squatting** | Blockiert Imitate bekannter Markennamen. | 🔍 |
-| **TechRZN IPs** | DNS-Sperre für bösartige IP-Adressen. | 🖥️ |
-| **TechRZN Threat Intel**| Schutz vor aktiven Botnetzen & Angriffswellen. | 🛑 |
-| **TechRZN Gambling** | Blockiert Casinos, Wetten & Lootboxen. | 🎰 |
-| **TechRZN Crypto** | Stoppt Browser-Miner & Krypto-Scams. | 🪙 |
-| **TechRZN Dating** | Unterbindet Zugriff auf Partnerbörsen. | ❤️ |
-| **TechRZN Spam** | Filtert aggressive Mail-Tracker & Spam-Domains. | 📧 |
-| **TechRZN Bypass** | Verhindert VPN/Proxy-Umgehungen im Netzwerk. | 🔓 |
-
-</details>
 
 ---
 
@@ -154,10 +154,12 @@ Für maximale Performance bei 2M+ Regeln (getestet auf <b>UGREEN NAS / 2,5 Gbit/
 <b>1. DNS-Cache & TTL</b><br>
 * Cache-Größe: <code>104.857.600</code> (100 MB)<br>
 * Optimistisches Caching: <b>Aktiviert</b> ✅<br>
-* TTL-Minimalwert: <code>3600</code> (1 Stunde)<br><br>
+* TTL-Minimalwert: <code>3600</code> (1 Stunde)<br>
+* TTL-Höchstwert überschreiben: <code>84600</code> (24 Stunden) ✅<br><br>
 <b>2. Sicherheit & Filterung</b><br>
 * DNSSEC: <b>Aktiviert</b> ✅<br>
 * Sperrmodus: <code>Null-IP</code><br>
+* Upstream-Timeout: <code>2</code> Sek. ⚡<br>
 * Gültigkeitsdauer blockierter Antwort: <code>300</code> Sek.
 </blockquote>
 </details>
