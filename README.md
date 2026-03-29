@@ -156,6 +156,14 @@ Willkommen beim **TechRZN Filter-Hub**. Dieses Repository bietet eine hochoptimi
 
 ---
 
+## ⚖️ Lizenz & Copyright
+Dieses Projekt ist unter der **MIT-Lizenz** lizenziert – siehe die [LICENSE](LICENSE) Datei für Details.
+<br>
+**Copyright (c) 2026 Jörg Berns (TechRZN) • Kleve, Deutschland.**
+
+## 🙏 Danksagung & Quellen
+Dieses Projekt basiert auf der wertvollen Arbeit von: **HaGeZi**, **RPiList**, **AdGuard Team** und **Abuse.ch**.
+
 **Gepflegt mit ❤️ von Jörg Berns in Kleve • Stand: März 2026**
 <br>
 <img src="https://capsule-render.vercel.app/render?type=soft&color=7957d5&height=30&section=footer" width="100%" />
