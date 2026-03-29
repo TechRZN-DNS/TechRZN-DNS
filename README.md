@@ -128,23 +128,6 @@ Wenn dir der **TechRZN Filter-Hub** hilft, dein Netzwerk sicherer zu machen, fre
 
 ---
 
-## 🧩 Ergänzende Core-Module (Einzelzugriff)
-> **Hinweis:** Diese spezialisierten Module ergänzen das TechRZN-Setup für spezifische Anwendungsfälle.
-
-| Einsatz | Modul | Fokus / Schutzbereich | Link |
-| :---: | :--- | :--- | :---: |
-| ✅ | **Bypass Filter** | VPN, Proxy, Tor & Bypass-Methoden | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_bypass.txt) |
-| ✅ | **Threat Intel** | Schutz vor Cyberangriffen & Botnetzen | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_threat.txt) |
-| ✅ | **Smart TV** | Unterbindet TV-Tracking & Werbung | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/smart_tv.txt) |
-| ✅ | **Windows Spy** | MS-Telemetrie & Office-Härtung | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_windows.txt) |
-| ✅ | **Gambling** | Sperrung von Glücksspiel & Wetten | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_gambling.txt) |
-| ✅ | **Fake DNS** | Schutz vor Betrug & Fake-Shops | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/hagezi_fake.txt) |
-| ✅ | **TechRZN IPs** | Eigene Liste bösartiger IP-Adressen | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/techrzn_ips.txt) |
-| ✅ | **Anti-Fakeshop** | Abwehr von Fake-Shops & Abofallen | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/notserious.txt) |
-| ✅ | **Banking-Schutz** | Phishing-Schild (DE-Banken Fokus) | [🔗](https://raw.githubusercontent.com/TechRZN-DNS/TechRZN-Blocklist-Collection/main/lists/phishing_de.txt) |
-
----
-
 ## 🛠️ Einrichtung & Optimierung
 
 <details>
