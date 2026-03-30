@@ -1,52 +1,62 @@
 <div align="center">
 
-# TechRZN | Jörg Berns
+# 🛡️ TechRZN Filter-Hub
+**High-Performance DNS & Network Security from Kleve, Germany**
 
-[![Maintainer: TechRZN](https://img.shields.io/badge/Maintainer-TechRZN-green.svg)](https://github.com/TechRZN)
-[![Location: Kleve](https://img.shields.io/badge/Location-Kleve,%20Germany-blue.svg)](https://www.google.com/maps/place/Kleve)
+[![GPLv3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/TechRZN-DNS/TechRZN-DNS/blob/main/LICENSE)
+[![Maintainer](https://img.shields.io/badge/Maintainer-TechRZN-green.svg)](https://github.com/TechRZN-DNS)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-orange.svg)](https://www.patreon.com/c/TechRZN)
 
 ---
 
-## 🎯 Mission & Vision
-
-**TechRZN** steht für hochperformante, automatisierte Sicherheitslösungen für Heimnetzwerke und kleine Infrastrukturen. Mein Fokus liegt auf der Entwicklung und Kuration von präzisen DNS-Blocklisten und Automatisierungs-Skripten (NAS, Firewall, Switche), um Privatsphäre und Sicherheit ohne Kompromisse bei der Performance zu gewährleisten.
-
-**Validiert auf Enterprise-Hardware in Kleve, Deutschland.**
+### 🎯 Mission
+Wir liefern maximale Präzision bei minimaler Systemlast. 
+Handkuratierte Blocklisten, validiert auf Enterprise-Hardware für AdGuard Home, Pi-hole & Technitium.
 
 ---
 
 </div>
 
-## 🚀 Pinned Projects
+## 📦 Meine Projekte
 
-### 🛡️ [TechRZN-Blocklist-Collection](https://github.com/TechRZN/TechRZN-Blocklist-Collection)
-A professional collection of blocklists to enhance security and privacy in networks (DNS, Firewall, NAS). Daily updated, cleaned, and deduplicated.
-* **Specialized Modules:** Ads, Tracking, Malware, Phishing, Fakeshops, Squatting, Gambling, Crypto, Dating, Spam, Fake Science, Bypass.
-* **Optimization:** Optimized for AdGuard Home, Pi-hole, and Technitium.
+### 🚀 [TechRZN-DNS Filter-Hub](https://github.com/TechRZN-DNS)
+Die Haupt-Sammlung meiner hochoptimierten Blocklisten.
+* **Master-Lists:** All-in-One Schutz gegen Ads, Tracking & Malware.
+* **Specialized:** Schutz vor Fakeshops, Krypto-Betrug und Phishing.
 
-### ⚙️ [TechRZN-Automation-Tools](https://github.com/TechRZN/TechRZN-Automation-Tools)
-Scripts and configurations for automating network infrastructure. Focused on UGREEN NAS (DXP4800 Plus), Zyxel Managed Switches, and FRITZ!Box optimization.
+<details>
+<summary>📂 <b>Klicke hier für Details zu den Modulen & Hardware</b></summary>
+
+### Eigene TechRZN Spezial-Module
+| Modul | Fokus |
+| :--- | :--- |
+| **Ads / Tracking** | Werbenetzwerke & Telemetrie |
+| **Malware / Phishing** | C2-Server & Fake-Logins |
+| **Fakeshops / Squatting** | Betrugsshops & Tippfehler-Schutz |
+| **Crypto / Gambling** | Miner & Casinos |
+
+### 🏗️ Hardware Backbone (Kleve)
+* **Core:** UGREEN NAS DXP4800 Plus (64 GB DDR5 ECC)
+* **Storage:** 80 TB WD Red Pro (ZFS RAID 5)
+* **Speed:** 2.5 Gbit Hybrid-Power | Zyxel Managed Switching
+</details>
 
 ---
 
 <div align="center">
 
-## 📊 My GitHub Activity
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=TechRZN&bg_color=0D1117&color=79C0FF&line=79C0FF&point=FFFFFF&area=true&hide_border=true)
-
----
-
-## 🤝 Support & Community
-
-If my work helps you secure your network, I appreciate your support on Patreon!
-
-[![Patreon](https://img.shields.io/badge/Patreon-Become%20a%20Patron-orange.svg)](https://www.patreon.com/c/TechRZN)
+## 📊 GitHub Stats
+![TechRZN's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechRZN-DNS&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
-## 📜 License & Copyright
+### 🤝 Support & Community
+Wenn dir der **TechRZN Filter-Hub** hilft, freue ich mich über deine Unterstützung!
 
-Copyright (c) 2026 Jörg Berns (TechRZN) | Licensed under the **[GPLv3](https://github.com/TechRZN/TechRZN-Blocklist-Collection/blob/main/LICENSE)**.
+[**Werde Unterstützer auf Patreon**](https://www.patreon.com/c/TechRZN)
+
+---
+
+**Copyright (c) 2026 Jörg Berns (TechRZN)** | **GPLv3 Protected**
 
 </div>
