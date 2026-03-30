@@ -1,62 +1,31 @@
 <div align="center">
 
-# 🛡️ TechRZN Filter-Hub
-**High-Performance DNS & Network Security from Kleve, Germany**
+# TechRZN
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/TechRZN-DNS/TechRZN-DNS/blob/main/LICENSE)
-[![Maintainer](https://img.shields.io/badge/Maintainer-TechRZN-green.svg)](https://github.com/TechRZN-DNS)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-orange.svg)](https://www.patreon.com/c/TechRZN)
-
----
-
-### 🎯 Mission
-Wir liefern maximale Präzision bei minimaler Systemlast. 
-Handkuratierte Blocklisten, validiert auf Enterprise-Hardware für AdGuard Home, Pi-hole & Technitium.
+[![Patreon](https://img.shields.io/badge/PATREON-ORANGE?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/TechRZN)
+[![GitHub Stars](https://img.shields.io/github/stars/TechRZN-DNS?style=for-the-badge&color=blue)](https://github.com/TechRZN-DNS)
+[![Location](https://img.shields.io/badge/KLEVE-GERMANY-green?style=for-the-badge)](https://github.com/TechRZN-DNS)
 
 ---
 
-</div>
-
-## 📦 Meine Projekte
-
-### 🚀 [TechRZN-DNS Filter-Hub](https://github.com/TechRZN-DNS)
-Die Haupt-Sammlung meiner hochoptimierten Blocklisten.
-* **Master-Lists:** All-in-One Schutz gegen Ads, Tracking & Malware.
-* **Specialized:** Schutz vor Fakeshops, Krypto-Betrug und Phishing.
-
-<details>
-<summary>📂 <b>Klicke hier für Details zu den Modulen & Hardware</b></summary>
-
-### Eigene TechRZN Spezial-Module
-| Modul | Fokus |
-| :--- | :--- |
-| **Ads / Tracking** | Werbenetzwerke & Telemetrie |
-| **Malware / Phishing** | C2-Server & Fake-Logins |
-| **Fakeshops / Squatting** | Betrugsshops & Tippfehler-Schutz |
-| **Crypto / Gambling** | Miner & Casinos |
-
-### 🏗️ Hardware Backbone (Kleve)
-* **Core:** UGREEN NAS DXP4800 Plus (64 GB DDR5 ECC)
-* **Storage:** 80 TB WD Red Pro (ZFS RAID 5)
-* **Speed:** 2.5 Gbit Hybrid-Power | Zyxel Managed Switching
-</details>
+**Senior IT-Specialist & Network Security Architect**
+*"Precision is the only defense against the noise of the internet."*
 
 ---
 
-<div align="center">
+### 📊 Contribution Activity
 
-## 📊 GitHub Stats
-![TechRZN's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechRZN-DNS&show_icons=true&theme=dark&hide_border=true)
-
----
-
-### 🤝 Support & Community
-Wenn dir der **TechRZN Filter-Hub** hilft, freue ich mich über deine Unterstützung!
-
-[**Werde Unterstützer auf Patreon**](https://www.patreon.com/c/TechRZN)
+![TechRZN Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TechRZN-DNS&bg_color=0D1117&color=79C0FF&line=79C0FF&point=FFFFFF&area=true&hide_border=true)
 
 ---
 
-**Copyright (c) 2026 Jörg Berns (TechRZN)** | **GPLv3 Protected**
+### 🛡️ Core Projects
+**[TechRZN-DNS Filter-Hub](https://github.com/TechRZN-DNS)**
+High-Performance Blocklists for AdGuard Home, Pi-hole & Technitium. 
+Daily updated | Hand-curated | GPLv3 Licensed.
+
+---
+
+**Copyright (c) 2026 Jörg Berns (TechRZN)**
 
 </div>
