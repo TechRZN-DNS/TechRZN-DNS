@@ -14,15 +14,9 @@
 
 ---
 
-### 📊 Activity & Contributions
-
-![TechRZN Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TechRZN-DNS&bg_color=0D1117&color=79C0FF&line=79C0FF&point=FFFFFF&area=true&hide_border=true)
-
----
-
 ### 🛡️ Featured Repository
 **[TechRZN-Blocklist-Collection](https://github.com/TechRZN-DNS/TechRZN-Blocklist-Collection)**
-The core of TechRZN's security infrastructure. 1M+ Rules, Deduplicated & Optimized.
+Das Herzstück der TechRZN Sicherheits-Infrastruktur. 1M+ Regeln, bereinigt & optimiert.
 
 ---
 
